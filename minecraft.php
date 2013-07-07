@@ -1,5 +1,5 @@
 <?php $page["page"] = "minecraft"; $page["title"] = "Minecraft Hosting"; include("./incl/header.php"); ?>
-    <h1 class="imgTitle minecraft">Instant Minecraft Servers</h1>
+    <h1 class="imgTitle minecraft">Minecraft Server Hosting</h1>
     <div id="content">
         <div id="contentContainer">
             <div id="web-plans" class="minecraft">
