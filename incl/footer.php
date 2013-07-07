@@ -42,7 +42,7 @@
             </div>
             <div class="clear"></div>
             <div class="legal">&copy; Copyright ServerCrate 2013 - All Rights Reserved.</div>
-            <div class="terms"><a href="./tos.php">Terms of Service</a> | <a href="./privacy.php">Privacy Policy</a></div>
+            <div class="terms"><a href="./tos.php">Terms of Service</a> | <a href="./privacy.php">Privacy Policy</a> | <?php include 'build.php'; ?></div>
         </div><div class="clear"></div>
     </div>
 </body>
