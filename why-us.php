@@ -1,6 +1,6 @@
 <?php $page["page"] = "why-us"; $page["title"] = "Why Choose ServerCrate?"; include("./incl/header.php"); ?>
     <h1 class="txtTitle">Why Choose ServerCrate?</h1>
-    <div id="content">
+    <div id="content"> 
         <div id="contentContainer">
             <div class="one-half">
                 <h2>A Team That Cares</h2>
