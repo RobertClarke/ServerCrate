@@ -1,5 +1,5 @@
 <?php $page["page"] = "minecraft"; $page["title"] = "Minecraft PE Hosting"; include("./incl/header.php"); ?>
-    <h1 class="imgTitle minecraft">Minecraft PE Server Hosting</h1>
+    <h1 class="imgTitle minecraft">Minecraft PE Server Hosting with PocketMine</h1>
     <div id="content">
         <div id="contentContainer">
             <div id="web-plans" class="minecraft">
@@ -21,10 +21,10 @@
                         <li>512MB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
-                        <li>$2</li>
+                        <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$10 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=6" class="button buy">Order Now</a></li>
+                        <li class="last">$10 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=34" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan middle">
@@ -33,10 +33,10 @@
                         <li>1GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
-                        <li>$2</li>
+                        <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$16 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=2" class="button buy">Order Now</a></li>
+                        <li class="last">$16 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=35" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan">
@@ -45,10 +45,10 @@
                         <li>2GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
-                        <li>$2</li>
+                        <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$32 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=3" class="button buy">Order Now</a></li>
+                        <li class="last">$32 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=36" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan">
@@ -57,10 +57,10 @@
                         <li>3GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
-                        <li>$2</li>
+                        <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$48 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=5" class="button buy">Order Now</a></li>
+                        <li class="last">$48 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=37" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan last">
@@ -69,10 +69,10 @@
                         <li>4GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
-                        <li>$2</li>
+                        <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$60 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=4" class="button buy">Order Now</a></li>
+                        <li class="last">$60 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=38" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
@@ -83,7 +83,7 @@
             </div>
             <div class="one-third">
                 <h2 class="icon lamp">Top Tier Network</h2>
-                <p>These Minecraft PE servers run on the same virtual private servers that we're famous for. Upon completion of purchase, a new VPS is built instantly for you, and for you alone, so you have completely control of your server.</p>
+                <p>These Minecraft PE servers are the first of their kind. ServerCrate is the only hosting company with an included control panel for managing your Minecraft PE server from the internet.</p>
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
