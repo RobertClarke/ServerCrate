@@ -16,7 +16,7 @@
                     </ul>
                 </div>
                 <div class="plan first">
-                    <h3>1-5 Players</h3>
+                    <h3>10-20 Players</h3>
                     <ul>
                         <li>512MB</li>
                         <li>Unmetered</li>
@@ -28,7 +28,7 @@
                     </ul>
                 </div>
                 <div class="plan middle">
-                    <h3>5-10 Players</h3>
+                    <h3>20-40 Players</h3>
                     <ul>
                         <li>1GB</li>
                         <li>Unmetered</li>
@@ -40,7 +40,7 @@
                     </ul>
                 </div>
                 <div class="plan">
-                    <h3>10-20 Players</h3>
+                    <h3>40-60 Players</h3>
                     <ul>
                         <li>2GB</li>
                         <li>Unmetered</li>
@@ -52,7 +52,7 @@
                     </ul>
                 </div>
                 <div class="plan">
-                    <h3>20-30 Players</h3>
+                    <h3>60-80 Players</h3>
                     <ul>
                         <li>3GB</li>
                         <li>Unmetered</li>
@@ -64,7 +64,7 @@
                     </ul>
                 </div>
                 <div class="plan last">
-                    <h3>30-40 Players</h3>
+                    <h3>100+ Players</h3>
                     <ul>
                         <li>4GB</li>
                         <li>Unmetered</li>
