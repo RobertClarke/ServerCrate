@@ -37,7 +37,7 @@
                 <div class="plan last starting">
                     <h3>Starting At</h3>
                     <ul>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$155 - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$170 - Order Now</a></li>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=33" class="button buy">$325 - Order Now</a></li>
                     </ul>
                 </div>
