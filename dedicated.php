@@ -24,7 +24,7 @@
                     <h3>Storage</h3>
                     <ul>
                         <li>2x 120GB SSD</li>
-                        <li>4x 1TB HDD</li>
+                        <li>2x 1TB HDD</li>
                     </ul>
                 </div>
                 <div class="plan traffic">
@@ -37,8 +37,8 @@
                 <div class="plan last starting">
                     <h3>Starting At</h3>
                     <ul>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$170 - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=33" class="button buy">$325 - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$175 - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=33" class="button buy">$300 - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
