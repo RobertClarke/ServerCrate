@@ -35,7 +35,7 @@
                 <li>Any content that facilitates in identity theft, credit card fraud, or any other type of fraud;</li>
                 <li>Torrent files and trackers that facilitate the download of any materials included in this list;</li>
                 <li>Any software that facilitates any activity prohibited in this policy.</li>
-                <li>Bitcoin miners.</li>
+                <li>Bitcoin/Cryptocurrency miners.</li>
             </ul>
             <p>Any illegal activity may result in your site being suspended  immediately, without notification. Any sites breaking the above rules  will be subject to a $100 clean-up fee if they are deemed to be  unresponsive to our requests.</p>
             <p>ServerCrate will be the sole arbiter as to what constitutes a violation of this provision.</p>
