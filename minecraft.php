@@ -78,16 +78,16 @@
             </div><div class="clear"></div>
             <hr />
             <div class="one-third">
-                <h2 class="icon computer">High Quality Hardware</h2>
-                <p>Our servers are built with only the latest E3v2 Intel processors, high quality Supermicro server grade motherboards, and high performance Samsung 840 solid state drives to ensure speed and reliability for each customer.</p>
+                <h2 class="icon computer">Fast Setup</h2>
+                <p>Upon ordering a Minecraft server with ServerCrate, your server is setup instantly, and your own server IP address is sent right to your email address, so you can right into breaking those blocks.</p>
             </div>
             <div class="one-third">
-                <h2 class="icon lamp">Top Tier Network</h2>
-                <p>These Minecraft servers run on the same virtual private servers that we're famous for. Upon completion of purchase, a new VPS is built instantly for you, and for you alone, so you have completely control of your server.</p>
+                <h2 class="icon lamp">Bukkit Support</h2>
+                <p>Want to add plugins to your server? Our Minecraft server control panel makes it easy to switch to Bukkit, and quickly install plugins for to enjoy while playing Minecraft.</p>
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
-                <p>We guarantee premium support, period. If any issues are to arise with any of your hosted services, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
+                <p>We guarantee premium support, period. If any issues are to arise with your Minecraft server, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
             </div>
             <div class="clear"></div>
             <hr/><div class="clear"></div>
