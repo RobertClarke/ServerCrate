@@ -1,0 +1,107 @@
+body {
+	background: #E6E6E6 url(../images/bg.png);
+}
+a {
+	color: #4A4;
+}
+a:hover {
+	color: #363;
+}
+
+header {
+	background: #444 url(../images/bg-header.png);
+	padding: 2em 0 12em;
+	margin-bottom: -12em;
+}
+#logo {
+	line-height: 18px;
+	padding: 8px;
+	margin: 0 -8px;
+	font-size: 24px;
+	font-bold: weight;
+	color: #FFF;
+	text-decoration: none;
+	text-shadow: 0 1px 0 #000;
+}
+#logo sup {
+	top: 0;
+	color: #789;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+#logo:hover {
+	color: #FFF;
+}
+
+
+nav .nav-pills a {
+	color: #FFF;
+}
+nav .nav-pills a:hover {
+	background: #666;
+	background: rgba(255, 255, 255, .15);
+}
+nav .nav-pills .active a, nav .nav-pills .active a:hover {
+	background: #4A4;
+}
+
+.hero-unit {
+	background: #EEE;
+	box-shadow: inset 0 0 100px #FFF, 0 0 20px rgba(0, 0, 0, .1);
+	text-shadow: 0 2px 0 #FFF;
+}
+
+.pricing {
+	text-align: center;
+}
+.pricing h3 {
+	color: #262;
+}
+.pricing h3 small {
+	display: block;
+	color: #897;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 120%;
+}
+.pricing h5 {
+	font-size: 36px;
+	line-height: 150%;
+}
+.pricing h5 sup {
+	display: block;
+	color: #897;
+	font-size: 12px;
+	line-height: 100%;
+}
+.pricing ul {
+	height: 10em;
+	padding: 1em 0;
+}
+.pricing .well {
+	background: #CCC;
+	text-shadow: 0 1px 0 #EEE;
+}
+.pricing .highlight {
+	background: #262;
+	margin: -10px;
+	border: 10px solid #373;
+	color: #FFF;
+	text-shadow: 0 1px 0 #030;
+}
+.pricing .highlight h3 {
+	color: #FF6;
+}
+
+
+.page-header {
+	border-bottom-color: #BBB;
+}
+
+footer {
+	margin-top: 4em;
+	padding: 3em 0 6em;
+	background: #222;
+	color: #EEE;
+}
