@@ -83,7 +83,7 @@
             </div>
             <div class="one-third">
                 <h2 class="icon lamp">Control panel</h2>
-                <p>We use a modified vesion of our powerful Minecraft control panel, making it easy to manage your Minecraft PE server. You can start/stop the server, and upload files with ease./p>
+                <p>We use a modified vesion of our powerful Minecraft control panel, making it easy to manage your Minecraft PE server. You can start/stop the server, and upload files with ease.</p>
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
