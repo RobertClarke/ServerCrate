@@ -6,7 +6,6 @@
                 <div class="legend">
                     <h3># of Players</h3>
                     <ul>
-                        <li>Memory</li>
                         <li>Bandwidth</li>
                         <li>Network</li>
                         <li>Dedicated IP</li>
@@ -16,21 +15,19 @@
                     </ul>
                 </div>
                 <div class="plan first">
-                    <h3>10-20 Players</h3>
+                    <h3>10 Players</h3>
                     <ul>
-                        <li>512MB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
                         <li>Yes</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$10 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=34" class="button buy">Order Now</a></li>
+                        <li class="last">$8 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=34" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan middle">
-                    <h3>20-40 Players</h3>
+                    <h3>20 Players</h3>
                     <ul>
-                        <li>1GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
                         <li>Yes</li>
@@ -40,9 +37,8 @@
                     </ul>
                 </div>
                 <div class="plan">
-                    <h3>40-60 Players</h3>
+                    <h3>40 Players</h3>
                     <ul>
-                        <li>2GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
                         <li>Yes</li>
@@ -52,9 +48,8 @@
                     </ul>
                 </div>
                 <div class="plan">
-                    <h3>60-80 Players</h3>
+                    <h3>60 Players</h3>
                     <ul>
-                        <li>3GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
                         <li>Yes</li>
@@ -64,9 +59,8 @@
                     </ul>
                 </div>
                 <div class="plan last">
-                    <h3>100+ Players</h3>
+                    <h3>80 Players</h3>
                     <ul>
-                        <li>4GB</li>
                         <li>Unmetered</li>
                         <li>1Gbp/s</li>
                         <li>Yes</li>
