@@ -20,7 +20,7 @@
                 <div class="product last">
                     <h3>MCPE Hosting <span>Best-in-class Minecraft PE hosting</span></h3>
                     <div class="content">
-                        <p>Looking to start your own Minecraft pocket edition server? Our MCPE hosting includes an integrated panel, and support for running your server.</p>
+                        <p>Looking to start your own Minecraft pocket edition server? Our MCPE hosting includes an integrated panel, and support for running your Minecraft PE server.</p>
                         <div class="buttons"><a href="/dedicated" class="button">More Info</a> <a href="/mcpe" class="button buy">Order Now</a><div class="clear"></div></div>
                     </div>
                 </div>
@@ -53,14 +53,6 @@
                             <p class="justify">"I've been using ServerCrate services for the last year, and I've noticed rock solid support and service during that time. The support staff is prompt at responding to my questions, and helpful in getting my website back online in the event of an issue."</p>
                             <span>- <b>Febby</b></span>
                         </li>
-                        <!--<li>
-                            <p class="justify">"Awesome service, my VPS was set up immediately and I haven't had an issue since! Team is friendly and very helpful, ServerCrate is a great company!"</p>
-                            <span>- <b>Example Bob 3</b></span>
-                        </li>
-                        <li>
-                            <p class="justify">"Awesome service, my VPS was set up immediately and I haven't had an issue since! Team is friendly and very helpful, ServerCrate is a great company!"</p>
-                            <span>- <b>Example Bob 4</b></span>
-                        </li>-->
                     </ul>
                 </div>
             </div>
