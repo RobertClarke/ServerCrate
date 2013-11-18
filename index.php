@@ -18,10 +18,10 @@
                     </div>
                 </div>
                 <div class="product last">
-                    <h3>Dedicated Hosting <span>True power, performance and reliability</span></h3>
+                    <h3>MCPE Hosting <span>Best-in-class Minecraft PE hosting</span></h3>
                     <div class="content">
-                        <p>When shared/VPS hosting just don't cut it, a dedicated server is a must-have for your small business or website. All servers include dedicated IPMI/KVM.</p>
-                        <div class="buttons"><a href="/dedicated" class="button">More Info</a> <a href="/dedicated" class="button buy">Order Now</a><div class="clear"></div></div>
+                        <p>Looking to start your own Minecraft pocket edition server? Our MCPE hosting includes an integrated panel, and support for running your server.</p>
+                        <div class="buttons"><a href="/dedicated" class="button">More Info</a> <a href="/mcpe" class="button buy">Order Now</a><div class="clear"></div></div>
                     </div>
                 </div>
             </div><div class="clear"></div>
