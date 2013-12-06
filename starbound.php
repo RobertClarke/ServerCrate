@@ -1,15 +1,15 @@
-<?php $page["page"] = "dedicated"; $page["title"] = "Dedicated Server Plans"; include("./incl/header.php"); ?>
-    <h1 class="imgTitle dedicated">Powerful &amp; Reliable Dedicated Servers</h1>
+<?php $page["page"] = "starbound"; $page["title"] = "Starbound Server Plans"; include("./incl/header.php"); ?>
+    <h1 class="imgTitle starbound">Get your own Starbound server today!</h1>
     <div id="content">
         <div id="contentContainer">
-            <h2>Unleash The True Power of Dedicated Servers</h2>
-            <p class="nospace justify">When power is a necessity, look no further than our dedicated server line. We offer custom dedicated server solutions with plenty of RAM, and bandwidth. Each server is hand build with Supermicro server grade motherboards, and enterprise-grade drives and RAM. ServerCrate management options are available for your server if you need a hand getting up and running.</p>
+            <h2>Unleash The True Power of our service</h2>
+            <p class="nospace justify">When power is a necessity, look no further than our starbound server line. We offer custom starbound server solutions with plenty of RAM, and bandwidth. Each server is hand build with Supermicro server grade motherboards, and enterprise-grade drives and RAM. ServerCrate management options are available for your server if you need a hand getting up and running.</p>
             <hr />
             <div id="web-plans" class="dedi">
                 <div class="plan first cpu">
                     <h3>Starbound VPS</h3>
                     <ul>
-                        <li>Starbound Service</li>
+                        <li>Starbound Service <span>Server for your friends.</span></li>
                     </ul>
                 </div>
                 <div class="plan ram">
@@ -31,9 +31,9 @@
                     </ul>
                 </div>
                 <div class="plan last starting">
-                    <h3>Price</h3>
+                    <h3>Starting At</h3>
                     <ul>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=39" class="button buy">$12/mo - Pre-Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$12 - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
