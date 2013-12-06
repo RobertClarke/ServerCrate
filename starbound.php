@@ -9,7 +9,7 @@
                 <div class="plan first cpu">
                     <h3>Starbound VPS</h3>
                     <ul>
-                        <li>Starbound Service <span>Server for your friends.</span></li>
+                        <li>Starbound Service <span>Quick and simple.</span></li>
                     </ul>
                 </div>
                 <div class="plan ram">
@@ -39,19 +39,19 @@
             </div><div class="clear"></div>
             <hr />
             <div class="one-third">
-                <h2 class="icon computer">High Quality Hardware</h2>
-                <p>Our servers are built with only the latest Intel processors, high quality Supermicro server grade motherboards, and high performance Samsung and Intel drives to ensure speed and reliability for each customer.</p>
+                <h2 class="icon computer">Powerful VPS</h2>
+                <p>Our starbound servers run on our acclaimed VPS platform, so you get the benefits of high-clock CPUs, pure SSD storage, and fast networking ports. You also get full root access to the VPS that runs your server.</p>
             </div>
             <div class="one-third">
-                <h2 class="icon network">Top Tier Network</h2>
-                <p>Our servers are located in Dallas, TX inside a state-of-the-art, secure data center facility and features premium bandwidth connections to multiple bandwidth providers for maximum reliability and speed.</p>
+                <h2 class="icon network">Service Info</h2>
+                <p>There are no player limits on your server, you can fit as many players as your server resources allow. Currently our Starbound service is in beta, so there is no control panel available at this time.</p>
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
-                <p>We guarantee premium support, period. If any issues are to arise with any of your hosted services, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
+                <p>We guarantee premium support, period. If any issues are to arise with your Minecraft server, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
             </div>
-            <hr class="nospace" /><div class="clear"></div>
-        <div class="clear"></div>
+            <div class="clear"></div>
+            <hr/><div class="clear"></div>
         </div>
     </div>
 <?php include("./incl/footer.php"); ?>
