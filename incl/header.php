@@ -1,9 +1,18 @@
-<?php if (empty($page["page"])) { $page["page"] = ""; } if (empty($page["title"])) { $page["title"] = ""; } ?>
+<?php 
+  if (empty($page["page"])) { $page["page"] = ""; } 
+  if (empty($page["title"])) { $page["title"] = "ServerCrate"; }
+  if (empty($page["description"])) { $page["description"] = "ServerCrate is a growing hosting provide web, vps, game, and dedicated server hosting."; }
+  if (empty($page["keywords"])) { $page["keywords"] = "server hosting, servers, game hosting, game servers"; } 
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><?php if (!empty($page["title"])) { echo $page["title"]." | "; } ?>ServerCrate</title>
+    <meta name="description" content="<?php if (!empty($page["description"])) { echo $page["description"]; } ?>" />
+    <meta name="keywords" content="<?php if (!empty($page["keywords"])) { echo $page["keywords"]; } ?>" />
+
     <link rel="stylesheet" href="./assets/css/base.css" media="all" />
     <link rel="stylesheet" href="./assets/css/ui-lightness/jquery-ui-1.8.19.custom.css" media="screen" />
     <script src="./assets/js/jquery-1.7.2.min.js" type="text/javascript"></script> 
