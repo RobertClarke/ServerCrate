@@ -1,4 +1,10 @@
-<?php $page["page"] = "minecraft"; $page["title"] = "Minecraft PE Hosting"; include("./incl/header.php"); ?>
+<?php 
+    $page["page"] = "minecraft"; 
+    $page["title"] = "Minecraft PE Hosting"; 
+    $page["description"] = "Minecraft pe hosting powered by Pocketmine, with included control panel to upload plugins and control server functions..";
+    $page["keywords"] = "mcpe hosting, minecraft pe hosting, minecraft pe servers, pocketmine servers, pocketmine hosting";
+    include("./incl/header.php"); 
+?>
     <h1 class="imgTitle minecraft">START YOUR OWN MINECRAFT PE SERVER TODAY</h1>
     <div id="content">
         <div id="contentContainer">

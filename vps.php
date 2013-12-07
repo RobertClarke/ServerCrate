@@ -1,4 +1,10 @@
-<?php $page["page"] = "vps-hosting"; $page["title"] = "VPS Plans"; include("./incl/header.php"); ?>
+<?php 
+    $page["page"] = "vps-hosting"; 
+    $page["title"] = "VPS Plans"; 
+    $page["description"] = "OpenVZ VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.";
+    $page["keywords"] = "dallas vps, ssd openvz vps, ssd vps, dallas server";
+    include("./incl/header.php"); 
+?>
     <h1 class="imgTitle plans">High Performance SSD VPS Hosting</h1>
     <div id="content">
         <div id="contentContainer">

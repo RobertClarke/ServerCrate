@@ -1,4 +1,10 @@
-<?php $page["page"] = "web-hosting"; $page["title"] = "Web Hosting Plans"; include("./incl/header.php"); ?>
+<?php 
+    $page["page"] = "web-hosting"; 
+    $page["title"] = "Web Hosting Plans"; 
+    $page["description"] = "Starting a web presence can sometimes be difficult, our simple web hosting plans make it easy to start your own website.";
+    $page["keywords"] = "web hosting, web hosting dallas, server hosting, cpanel hosting, shared web hosting";
+    include("./incl/header.php"); 
+?>
     <h1 class="imgTitle shared">Supercharged Website Hosting</h1>
     <div id="content">
         <div id="contentContainer">

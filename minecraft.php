@@ -1,4 +1,10 @@
-<?php $page["page"] = "minecraft"; $page["title"] = "Minecraft Hosting"; include("./incl/header.php"); ?>
+<?php 
+    $page["page"] = "minecraft"; 
+    $page["title"] = "Minecraft Hosting"; 
+    $page["description"] = "Minecraft server hosting that makes it easy to get up and running with a Minecraft server to play with your friends.";
+    $page["keywords"] = "minecraft hosting, minecraft servers, mc hosting, best minecraft hosting, best minecraft host";
+    include("./incl/header.php"); 
+?>
     <h1 class="imgTitle minecraft">Start your own Minecraft server today</h1>
     <div id="content">
         <div id="contentContainer">
@@ -94,3 +100,4 @@
         </div>
     </div>
 <?php include("./incl/footer.php"); ?>
+

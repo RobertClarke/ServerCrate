@@ -3,7 +3,8 @@
     $page["title"] = "Dedicated Server Plans"; 
     $page["description"] = "ServerCrate dedicated servers provide cheap, yet powerful dedicated servers for all kinds of uses.";
     $page["keywords"] = "dedicated servers, dedicated hosting, dedicated e3 server, dedicated servers dallas";
-    include("./incl/header.php"); ?>
+    include("./incl/header.php"); 
+?>
     <h1 class="imgTitle dedicated">Powerful &amp; Reliable Dedicated Servers</h1>
     <div id="content">
         <div id="contentContainer">
