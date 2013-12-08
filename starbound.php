@@ -54,7 +54,7 @@
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
-                <p>We guarantee premium support, period. If any issues are to arise with your Minecraft server, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
+                <p>We guarantee premium support, period. If any issues are to arise with your Starbound server, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
             </div>
             <div class="clear"></div>
             <hr/><div class="clear"></div>
