@@ -1,6 +1,6 @@
 <?php 
     $page["page"] = "starbound"; 
-    $page["title"] = "Starbound Server Plans"; 
+    $page["title"] = "Starbound Server Hosting"; 
     $page["description"] = "ServerCrate starbound server hosting makes it easy to get yourself setup on one of the new starbound servers.";
     $page["keywords"] = "starbound servers, starbound hosting, starbound server hosting, starbound vps";
     include("./incl/header.php"); 
