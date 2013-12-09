@@ -10,8 +10,6 @@
         <div id="contentContainer">
             <h2>Unleash The True Power of our service</h2>
             <p class="nospace justify">Our Starbound servers are hosted with dedicated resources on a full VPS. This means you'll have full control and root access to your server, as well as the ease of use and automatic updates provided by our default configuration.</p>
-            </br>
-            <h2>Note: There's currently a ~24 hour setup wait time as we're out of stock. Orders will be fulfilled as soon as new stock comes in.</h2>
             <hr />
             <div id="web-plans" class="dedi">
                 <div class="plan first cpu">
