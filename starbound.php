@@ -15,31 +15,36 @@
                 <div class="plan first cpu">
                     <h3>Starbound VPS</h3>
                     <ul>
-                        <li>Starbound Service <span>Quick and simple.</span></li>
+                        <li>Starbound Small <span>1-5 recommend players.</span></li>
+                        <li>Starbound Large <span>5-10 recommend players.</span></li>
                     </ul>
                 </div>
                 <div class="plan ram">
                     <h3>RAM</h3>
                     <ul>
                         <li>1GB</li>
+                        <li>2GB</li>
                     </ul>
                 </div>
                 <div class="plan storage">
                     <h3>Storage</h3>
                     <ul>
                         <li>10GB SSD</li>
+                        <li>20GB SSD</li>
                     </ul>
                 </div>
                 <div class="plan traffic">
                     <h3>Traffic</h3>
                     <ul>
                         <li>1TB</li>
+                        <li>2TB</li>
                     </ul>
                 </div>
                 <div class="plan last starting">
                     <h3>Starting At</h3>
                     <ul>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=39" class="button buy">$12/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=40" class="button buy">$22/mo - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
