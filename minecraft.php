@@ -30,7 +30,7 @@
                         <li>$2</li>
                         <li><div class="yes">Yes</div></li>
                         <li><div class="yes">Yes</div></li>
-                        <li class="last">$10 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=6" class="button buy">Order Now</a></li>
+                        <li class="last">$8 Monthly <a href="https://billing.servercrate.com/cart.php?a=add&pid=6" class="button buy">Order Now</a></li>
                     </ul>
                 </div>
                 <div class="plan middle">
