@@ -15,7 +15,7 @@
                 <div class="plan first cpu">
                     <h3>CPU</h3>
                     <ul>
-                        <li>Intel Quad-Core <span>E3-1230 3.6Ghz</span></li>
+                        <li>Intel Quad-Core <span>E3-1230v2 3.7Ghz</span></li>
                         <li>Dual Intel Hexa-Core <span>E5-2620 2.5Ghz</span></li>
                     </ul>
                 </div>
