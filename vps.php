@@ -30,8 +30,8 @@
                 <p>Our servers are built with only the latest Intel E3v2 processors, high quality Supermicro server grade motherboards, and high performance Samsung and Intel solid state drives to ensure speed and reliability for each customer.</p>
             </div>
             <div class="one-third">
-                <h2 class="icon network">Top Tier Network</h2>
-                <p>Our servers are located in Dallas, TX inside a state-of-the-art, secure data center facility and features premium bandwidth connections to multiple bandwidth providers for maximum reliability and speed.</p>
+                <h2 class="icon network">DDOS-Protected Network</h2>
+                <p>Our servers are located in Dallas, TX inside a state-of-the-art, secure data center facility and features premium bandwidth connections to multiple bandwidth providers for maximum reliability and speed, along with DDOS protection  at no additional charge</p>
             </div>
             <div class="one-third last">
                 <h2 class="icon thumbup">Premium Support</h2>
