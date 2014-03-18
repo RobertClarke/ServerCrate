@@ -39,7 +39,7 @@
             </div>
             <div class="one-third last">
                 <h2 class="icon cart">Easy To Upgrade</h2>
-                <p>Worried about not having enough processing power? We're happy to help you upgrade your hosting plan to provide you with more power, to keep up with the demands of your business or website./p>
+                <p>Worried about not having enough processing power? We're happy to help you upgrade your hosting plan to provide you with more power, to keep up with the demands of your business or website.</p>
             </div>
             <div class="clear"></div>
             <hr /><div class="signup"><div class="cont"><p>Ready To Start?</p><a href="./hosting.php">View Plans</a></div></div><hr class="last" />
