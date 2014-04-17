@@ -72,6 +72,7 @@
                     <ul class="subnav">
                         <li<?php if ($page["page"] == "web-hosting") { ?> class="active"<?php } ?>><a href="./web-hosting">Web Hosting</a></li>
                         <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./vps">VPS Hosting</a></li>
+                        <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./10gbit-vps">10gbit VPS Hosting</a></li>
                         <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./minecraft">Minecraft Hosting</a></li>
                         <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./mcpe">Minecraft PE Hosting</a></li>
                         <!--<li<?php if ($page["page"] == "starbound") { ?> class="active"<?php } ?>><a href="./starbound.php">Starbound Servers</a></li>-->

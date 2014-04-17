@@ -5,7 +5,8 @@
                 <ul>
                     <li><a href="./">Home</a></li>
                     <li><a href="./why-us">Why Us?</a></li>
-                    <li><a href="./plans">VPS Plans</a></li>
+                    <li><a href="./vps">VPS Plans</a></li>
+                    <li><a href="./10gbit-vps">10gbit VPS Plans</a></li>
                     <li><a href="./web-hosting">Web Hosting Plans</a></li>
                     <li><a href="./minecraft">Minecraft Plans</a></li>
                     <li><a href="./features">Hosting Features</a></li>
