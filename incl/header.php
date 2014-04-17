@@ -70,17 +70,17 @@
                 <li<?php if ($page["page"] == "plans") { ?> class="active"<?php } ?>>
                     <a href="#">Hosting Plans</a>
                     <ul class="subnav">
-                        <li<?php if ($page["page"] == "web-hosting") { ?> class="active"<?php } ?>><a href="./web-hosting.php">Web Hosting</a></li>
-                        <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./vps.php">VPS Hosting</a></li>
-                        <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./minecraft.php">Minecraft Hosting</a></li>
-                        <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./mcpe.php">Minecraft PE Hosting</a></li>
+                        <li<?php if ($page["page"] == "web-hosting") { ?> class="active"<?php } ?>><a href="./web-hosting">Web Hosting</a></li>
+                        <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./vps">VPS Hosting</a></li>
+                        <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./minecraft">Minecraft Hosting</a></li>
+                        <li<?php if ($page["page"] == "minecraft") { ?> class="active"<?php } ?>><a href="./mcpe">Minecraft PE Hosting</a></li>
                         <!--<li<?php if ($page["page"] == "starbound") { ?> class="active"<?php } ?>><a href="./starbound.php">Starbound Servers</a></li>-->
-                        <li class="<?php if ($page["page"] == "dedicated") { ?>active <?php } ?>last"><a href="./dedicated.php">Dedicated Hosting</a></li>
+                        <li class="<?php if ($page["page"] == "dedicated") { ?>active <?php } ?>last"><a href="./dedicated">Dedicated Hosting</a></li>
                     </ul>
                 </li>
-                <li<?php if ($page["page"] == "features") { ?> class="active"<?php } ?>><a href="./features.php">Features</a></li>
-                <li<?php if ($page["page"] == "company") { ?> class="active"<?php } ?>><a href="./company.php">Our Company</a></li>
-                <li<?php if ($page["page"] == "support") { ?> class="active"<?php } ?>><a href="./support.php">Support</a></li>
+                <li<?php if ($page["page"] == "features") { ?> class="active"<?php } ?>><a href="./features">Features</a></li>
+                <li<?php if ($page["page"] == "company") { ?> class="active"<?php } ?>><a href="./company">Our Company</a></li>
+                <li<?php if ($page["page"] == "support") { ?> class="active"<?php } ?>><a href="./support">Support</a></li>
             </ul>
         </div>
     </div><div class="clear"></div>
