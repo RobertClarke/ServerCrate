@@ -15,28 +15,24 @@
                 <div class="plan first cpu">
                     <h3>CPU</h3>
                     <ul>
-                        <li>Intel Quad-Core <span>E3-1230v2 3.7Ghz</span></li>
-                        <li>Dual Intel Hexa-Core <span>E5-2620 2.5Ghz</span></li>
+                        <li>Intel Quad-Core <span>E3-1230v1/2 3.7Ghz</span></li>
                     </ul>
                 </div>
                 <div class="plan ram">
                     <h3>RAM</h3>
                     <ul>
                         <li>32GB</li>
-                        <li>64GB</li>
                     </ul>
                 </div>
                 <div class="plan storage">
                     <h3>Storage</h3>
                     <ul>
-                        <li>2x 120GB SSD</li>
-                        <li>2x 1TB HDD</li>
+                        <li>2x 120/240GB SSD</li>
                     </ul>
                 </div>
                 <div class="plan traffic">
                     <h3>Traffic</h3>
                     <ul>
-                        <li>5TB</li>
                         <li>5TB</li>
                     </ul>
                 </div>
@@ -44,7 +40,6 @@
                     <h3>Starting At</h3>
                     <ul>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=23" class="button buy">$175 - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=33" class="button buy">$300 - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
