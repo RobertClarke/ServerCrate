@@ -15,9 +15,9 @@
                 <div class="plan first cpu">
                     <h3>Storage</h3>
                     <ul>
-                        <li>500GB <span>RAID 5 disk space</span></li>
-                        <li>1TB <span>RAID 5 disk space</span></li>
-                        <li>2TB <span>RAID 5 disk space</span></li>
+                        <li>500GB <span>RAID 10 disk space</span></li>
+                        <li>1TB <span>RAID 10 disk space</span></li>
+                        <li>2TB <span>RAID 10 disk space</span></li>
                     </ul>
                 </div>
                 <div class="plan ram">
