@@ -1,11 +1,11 @@
 <?php 
     $page["page"] = "vps-hosting"; 
-    $page["title"] = "VPS Plans"; 
+    $page["title"] = "SSD VPS Hosting"; 
     $page["description"] = "OpenVZ VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.";
-    $page["keywords"] = "dallas vps, ssd openvz vps, ssd vps, dallas server";
+    $page["keywords"] = "dallas vps, ssd vps, ssd vps hosting, dallas server";
     include("./incl/header.php"); 
 ?>
-    <h1 class="imgTitle plans">High Performance SSD VPS Hosting</h1>
+    <h1 class="imgTitle plans">SSD VPS Hosting</h1>
     <div id="content">
         <div id="contentContainer">
             <h3>Use the orange sliding knob to select the amount of resources you'd like to start with.</h3>
