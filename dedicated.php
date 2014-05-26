@@ -27,7 +27,7 @@
                 <div class="plan storage">
                     <h3>Storage</h3>
                     <ul>
-                        <li>2x 120/240GB SSD</li>
+                        <li>2x 120GB SSD</li>
                     </ul>
                 </div>
                 <div class="plan traffic">
