@@ -13,7 +13,7 @@
                 <div class="product middle">
                     <h3>VPS Hosting <span>Powerful Virtual Private Server solutions</span></h3>
                     <div class="content">
-                        <p>Our SSD-powered OpenVZ Linux hosting is a powerful tool for your applications and websites. Dedicated RAM and SSD space ensures that you're up and running in no time.</p>
+                        <p>Our SSD-powered OpenVZ Linux hosting is a powerful tool for your applications and websites. Dedicated RAM, SSD space and instant setup ensure that you're up and running in minutes.</p>
                         <div class="buttons"><a href="/vps" class="button">More Info</a> <a href="/vps" class="button buy">Order Now</a><div class="clear"></div></div>
                     </div>
                 </div>
