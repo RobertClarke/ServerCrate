@@ -18,10 +18,10 @@
                     </div>
                 </div>
                 <div class="product last">
-                    <h3>MCPE Hosting <span>Best-in-class Minecraft PE hosting</span></h3>
+                    <h3>Dedicated Hosting <span>Unmetered dedicated power</span></h3>
                     <div class="content">
-                        <p>Looking to start your own Minecraft pocket edition server? Our MCPE hosting includes an integrated panel, and support for running your Minecraft PE server.</p>
-                        <div class="buttons"><a href="/mcpe" class="button">More Info</a> <a href="/mcpe" class="button buy">Order Now</a><div class="clear"></div></div>
+                        <p>If you need the most powerful solution for your business, look no further than our dedicated server line. Plenty of bandwidth, RAM, and disk space mean the best value for your money.</p>
+                        <div class="buttons"><a href="https://stock.servercrate.com/" class="button">More Info</a> <a href="https://stock.servercrate.com/" class="button buy">Order Now</a><div class="clear"></div></div>
                     </div>
                 </div>
             </div><div class="clear"></div>
