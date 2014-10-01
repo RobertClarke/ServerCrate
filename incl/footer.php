@@ -8,7 +8,7 @@
                     <li><a href="./vps">VPS Plans</a></li>
                     <li><a href="./10gbit-vps">10gbit VPS Plans</a></li>
                     <li><a href="./web-hosting">Web Hosting Plans</a></li>
-                    <li><a href="./minecraft">Minecraft Plans</a></li>
+                    <li><a href="https://netherbox.com">Minecraft Server Hosting</a></li>
                     <li><a href="./features">Hosting Features</a></li>
                     <li><a href="./company">Our Company</a></li>
                 </ul>
