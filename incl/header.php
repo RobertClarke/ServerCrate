@@ -72,7 +72,7 @@
                     <ul class="subnav">
                         <li<?php if ($page["page"] == "web-hosting") { ?> class="active"<?php } ?>><a href="./web-hosting">Web Hosting</a></li>
                         <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./vps">VPS Hosting</a></li>
-                        <li<?php if ($page["page"] == "vps-hosting") { ?> class="active"<?php } ?>><a href="./10gbit-vps">10gbit VPS Hosting</a></li>
+                        <li<?php if ($page["page"] == "storage-vps") { ?> class="active"<?php } ?>><a href="./storage-vps">Storage VPS Hosting</a></li>
                         <li><a href="https://netherbox.com">Minecraft Hosting</a></li>
                         <!--<li<?php if ($page["page"] == "starbound") { ?> class="active"<?php } ?>><a href="./starbound.php">Starbound Servers</a></li>-->
                         <li class="<?php if ($page["page"] == "dedicated") { ?>active <?php } ?>last"><a href="./dedicated">Dedicated Hosting</a></li>
