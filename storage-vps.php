@@ -1,15 +1,15 @@
 <?php 
-    $page["page"] = "10gbit-vps"; 
-    $page["title"] = "10gbit VPS Plans"; 
-    $page["description"] = "10gbit vps nodes located in Dallas, US.";
-    $page["keywords"] = "10gbit vps, 10gbps vps, 10gbit vm, 10gbit hosting";
+    $page["page"] = "storage-vps"; 
+    $page["title"] = "Storage VPS Plans"; 
+    $page["description"] = "Storage vps nodes located in Dallas, US.";
+    $page["keywords"] = "10gbps vps, storage vps, 10gbit vm, 10gbit hosting";
     include("./incl/header.php"); 
 ?>
-    <h1 class="imgTitle features">10gbit VPS nodes located in Dallas, TX</h1>
+    <h1 class="imgTitle features">Storage VPS nodes located in Dallas, TX</h1>
     <div id="content">
         <div id="contentContainer">
             <h2>Bandwidth, unleashed</h2>
-            <p class="nospace justify">ServerCrate's line of 10gbit VPS nodes are perfect for your bandwidth, and high bandwidth needs. Hosts nodes are equipped with HW RAID cards, and redundant power supplies, ensuring top quality services. VMs include plenty of bandwidth and disk drive space to ensure maximum availability. Our 10gbit servers are located in our private server space the heart of Dallas Texas.</p>
+            <p class="nospace justify">ServerCrate's line of 10gbit Storage VPS nodes are perfect for your bandwidth, and high bandwidth needs. Hosts nodes are equipped with HW RAID cards, and redundant power supplies, ensuring top quality services. VMs include plenty of bandwidth and disk drive space to ensure maximum availability. Our 10gbit servers are located in our private server space the heart of Dallas Texas.</p>
             <hr />
             <div id="web-plans" class="dedi">
                 <div class="plan first cpu">
@@ -56,10 +56,10 @@
                     <h3>Starting At</h3>
                     <ul>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=46" class="button buy">$40/year - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=45" class="button buy">$5/month - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$10/month - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$15/month - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$30/month - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=45" class="button buy">$5/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$10/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$15/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$30/mo - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
