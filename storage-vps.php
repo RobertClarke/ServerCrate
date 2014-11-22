@@ -35,9 +35,9 @@
                 <div class="plan storage">
                     <h3>RAM</h3>
                     <ul>
-                        <li>512MB</li>
-                        <li>512MB</li>
-                        <li>512MB</li>
+                        <li>1GB</li>
+                        <li>1GB</li>
+                        <li>1GB</li>
                         <li>1GB</li>
                         <li>2GB</li>
                     </ul>
@@ -57,9 +57,9 @@
                     <ul>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=46" class="button buy">$40/year - Order Now</a></li>
                         <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=45" class="button buy">$5/mo - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$10/mo - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$15/mo - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$30/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$7/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$14/mo - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$28/mo - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
