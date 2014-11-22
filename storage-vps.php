@@ -38,7 +38,7 @@
                         <li>1GB</li>
                         <li>1GB</li>
                         <li>1GB</li>
-                        <li>1GB</li>
+                        <li>2GB</li>
                         <li>2GB</li>
                     </ul>
                 </div>
