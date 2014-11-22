@@ -15,6 +15,8 @@
                 <div class="plan first cpu">
                     <h3>Storage</h3>
                     <ul>
+                        <li>100GB <span>RAID 10 disk space</span></li>
+                        <li>25GB <span>RAID 10 disk space</span></li>
                         <li>500GB <span>RAID 10 disk space</span></li>
                         <li>1TB <span>RAID 10 disk space</span></li>
                         <li>2TB <span>RAID 10 disk space</span></li>
@@ -26,11 +28,15 @@
                         <li>10gbit</li>
                         <li>10gbit</li>
                         <li>10gbit</li>
+                        <li>10gbit</li>
+                        <li>10gbit</li>
                     </ul>
                 </div>
                 <div class="plan storage">
                     <h3>RAM</h3>
                     <ul>
+                        <li>512MB</li>
+                        <li>512MB</li>
                         <li>512MB</li>
                         <li>1GB</li>
                         <li>2GB</li>
@@ -39,6 +45,8 @@
                 <div class="plan traffic">
                     <h3>Traffic</h3>
                     <ul>
+                        <li>1TB</li>
+                        <li>2TB</li>
                         <li>4TB</li>
                         <li>8TB</li>
                         <li>16TB</li>
@@ -47,9 +55,11 @@
                 <div class="plan last starting">
                     <h3>Starting At</h3>
                     <ul>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$20 - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$40 - Order Now</a></li>
-                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$70 - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=46" class="button buy">$40/year - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=45" class="button buy">$5/month - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=27" class="button buy">$10/month - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=28" class="button buy">$15/month - Order Now</a></li>
+                        <li><a href="https://billing.servercrate.com/cart.php?a=add&pid=29" class="button buy">$30/month - Order Now</a></li>
                     </ul>
                 </div>
             </div><div class="clear"></div>
