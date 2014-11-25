@@ -16,7 +16,7 @@
                     <h3>Storage</h3>
                     <ul>
                         <li>100GB <span>RAID 10 disk space</span></li>
-                        <li>25GB <span>RAID 10 disk space</span></li>
+                        <li>250GB <span>RAID 10 disk space</span></li>
                         <li>500GB <span>RAID 10 disk space</span></li>
                         <li>1TB <span>RAID 10 disk space</span></li>
                         <li>2TB <span>RAID 10 disk space</span></li>
