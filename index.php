@@ -38,7 +38,7 @@
             <div class="home-about">
                 <div class="side-text">
                     <h2>Learn A Bit About Us And Our Team</h2>
-                    <p class="nospace justify">Thank you for considering ServerCrate as your server hosting choice. We guarantee client satisfaction as we are dedicated to both our clients and company. Our dedicated team has put their time and efforts into making our company and services the best they could be. 
+                    <p class="nospace justify">Thank you for considering ServerCrate as your server hosting choice. We guarantee client satisfaction as we are dedicated to both our clients and company. Our dedicated team has put their time and efforts into making our company and services the best they could be.
                     </br></br>
                     Our team is working on a daily basis to improve our services, website, and more. We are dedicated to two main things at ServerCrate: our clients and the quality of service that we provide.</p>
                 </div>
@@ -61,7 +61,7 @@
     </div>
     <script type="text/javascript">
     $(document).ready(function(){
-        $('#testimonial-slider').bxSlider({ mode: 'vertical', speed: 800, controls: false, auto: true, pause: 3500 });
+        $('#testimonial-slider').bxSlider({ mode: 'vertical', speed: 800, controls: false, auto: true, pause: 7500 });
     });
     </script>
 <?php include("./incl/footer.php"); ?>

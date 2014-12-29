@@ -15,12 +15,12 @@ $(document).ready(function() {
 		$("#slider").slider({ step: 1, min:1, max: 9, value: 4, slide: function(event, ui) { changeSliderValue(ui); } });
 		changeSliderValue({value: 4});
 	}
-	
+
 	$('#nav li').hover(
-		function() { $(this).find('.subnav').slideDown(200); },
-		function() { $(this).find('.subnav').slideUp(200); }
+		function() { $(this).find('.subnav').show(0); },
+		function() { $(this).find('.subnav').hide(0); }
 	);
-	
+
 });
 
 function changeSliderValue(ui) {
