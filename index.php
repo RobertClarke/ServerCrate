@@ -61,7 +61,7 @@
     </div>
     <script type="text/javascript">
     $(document).ready(function(){
-        $('#testimonial-slider').bxSlider({ mode: 'vertical', speed: 800, controls: false, auto: true, pause: 7500 });
+        $('#testimonial-slider').bxSlider({ mode: 'vertical', speed: 800, controls: false, auto: true, pause: 9500 });
     });
     </script>
 <?php include("./incl/footer.php"); ?>
