@@ -42,7 +42,7 @@
                 </ul>
             </div>
             <div class="clear"></div>
-            <div class="legal">&copy; Copyright CubeMotion LLC 2014 - All Rights Reserved.</div>
+            <div class="legal">&copy; Copyright CubeMotion LLC 2012 - <?php echo date("Y") ?> - All Rights Reserved.</div>
             <div class="terms"><a href="./tos.php">Terms of Service</a> | <a href="./privacy.php">Privacy Policy</a> | A <a href="http://cubemotion.com">CubeMotion</a> Company</div>
         </div><div class="clear"></div>
     </div>
