@@ -42,8 +42,8 @@
                 </ul>
             </div>
             <div class="clear"></div>
-            <div class="legal">&copy; Copyright CubeMotion LLC 2012 - <?php echo date("Y") ?> - All Rights Reserved.</div>
-            <div class="terms"><a href="./tos.php">Terms of Service</a> | <a href="./privacy.php">Privacy Policy</a> | A <a href="http://cubemotion.com">CubeMotion</a> Company</div>
+            <div class="legal">&copy; Copyright ServerCrate LLC 2012 - <?php echo date("Y") ?> - All Rights Reserved.</div>
+            <div class="terms"><a href="./tos.php">Terms of Service</a> | <a href="./privacy.php">Privacy Policy</a> | <a href="http://cubemotion.com">A CubeMotion Company</a>.</div>
         </div><div class="clear"></div>
     </div>
 </body>
