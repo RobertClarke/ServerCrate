@@ -31,7 +31,8 @@
                     <li><a href="https://billing.servercrate.com/">Customer Portal</a></li>
                     <li><a href="https://vps.servercrate.com/">VPS Control Panel</a></li>
                     <li><a href="https://dalweb1.servercrate.com:2087/">Web Hosting Control Panel</a></li>
-                    <li><a href="https://lg.servercrate.com/">Looking Glass</a></li>
+                    <li><a href="https://lg.servercrate.com/">Dallas Looking Glass</a></li>
+                    <li><a href="http://la.lg.servercrate.com/">Los Angeles Looking Glass</a></li>
                 </ul>
             </div>
             <div class="col last">
