@@ -5,14 +5,10 @@
 					<article>
 						<h3>Products</h3>
 						<ul>
-							<li><a href="/dedicated">Dedicated Servers</a></li>
-							<li><a href="/vps-openvz">OpenVZ SSD VPS</a></li>
-							<li><a href="/vps-kvm">KVM SSD VPS</a></li>
-							<li><a href="/vps-openvz-storage">OpenVZ Storage VPS</a></li>
-							<li><a href="/vps-kvm-storage">KVM Storage VPS</a></li>
-							<li><a href="/web-hosting">Website Hosting</a></li>
+							<li><a href="https://servercrate.com/web-hosting">Web Hosting</a></li>
+							<li><a href="https://servercrate.com/vps">VPS Hosting</a></li>
+							<li><a href="https://servercrate.com/dedicated">Dedicated Servers</a></li>
 							<li><a href="http://netherbox.com" target="_blank">Minecraft Hosting</a></li>
-							<li><a href="/colocation">Colocation</a></li>
 						</ul>
 					</article>
 					<article>
