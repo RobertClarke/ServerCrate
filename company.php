@@ -1,25 +1,125 @@
-<?php $page["page"] = "company"; $page["title"] = "Our Company"; include("./incl/header.php"); ?>
-    <h1 class="txtTitle">Learn More About Our Company</h1>
-    <div id="content">
-        <div id="contentContainer">
-            <div class="one-half">
-                <h2>About Us And Our Team</h2>
-                <p>Thank you for considering ServerCrate as your web hosting choice. We guarantee client satisfaction as we are dedicated to both our clients and company. Our dedicated team at ServerCrate has put their time and efforts into making ServerCrate the best it could be. Our team is working on a daily basis to improve our services, website, and more. We are dedicated to two main things at ServerCrate: our clients and the quality of service that we provide.</p>
-            </div>
-            <div class="one-half last">
-                <h2>What We Offer</h2>
-                <p>ServerCrate provides high performance web hosting amongst other server-related services for our customers. Our team takes the burden of back end virtual private server management and monitoring off of your shoulders and onto their own to allow you to innovate and improve your personal and business-related functions. Simply put, we offer high quality web hosting at competitive prices, while maintaining customer satisfaction at all times.</p>
-            </div>
-            <div class="clear"></div><div class="seperate"></div>
-            <div class="one-half">
-                <h2>Our Mission Statement</h2>
-                <p>At ServerCrate, we always strive to provide the best service possible, at the best prices possible. We are, and will continue to stay reliable, affordable and more importantly, customer focused. We make product and pricing changes based on the feedback we receive from our customers. To our knowledge, we have the best service in the business at the competitive prices that we provide our services at, and will continue to do so as long as we are in the business.</p>
-            </div>
-            <div class="one-half last">
-                <h2>Quality Of Service</h2>
-                <p>We believe in providing only the best possible quality of service to each of our customers. Not only do we have fantastic support, but we always put our customers first. Our focus is constantly kept at providing the highest class of customer support, server performance and network speeds. We always put our customers first at ServerCrate, building strong customer relations, which is why we believe is one of the most important aspects of running a hosting company.</p>
-            </div>
-            <div class="clear"></div>
-        </div>
-    </div>
-<?php include("./incl/footer.php"); ?>
+<?php
+
+$page = [
+	'id'		=>	'company',
+	'title'		=>	'Our Company',
+	'seo_desc'	=>	NULL,
+	'seo_tags'	=>	NULL,
+	'cta_title'	=>	"Company",
+	'cta_desc'	=>	"Learn more about ServerCrate."
+];
+
+require_once('structure/header.php');
+
+?>
+		<div class="body">
+			<div class="wrapper">
+				<section class="cta">
+					<p>ServerCrate is a leading part of the CubeMotion network. Founded in 2012, we strive to offer the best quality and service we can to our clients. Whether you’re hosting a small website or serve high volumes of traffic, we have a solution for you.</p>
+				</section>
+			</div>
+		</div>
+		
+		<div class="body alt">
+			<div class="wrapper">
+				<section id="about">
+					<article>
+						<header><h3>Network</h3></header>
+						<p>We believe that redundancy is key, and as such we have redundant fiber uplinks throughout our network infrastructure. All inter-rack communication is done over 10gbit SFP+ connections, backed by Enterprise class Juniper routing equipment. Both our LA and Dallas networks include DDOS mitigation solutions, which we include with all services offered in these locations. </p>
+					</article>
+					<article class="services">
+						<header><h3>Services We Offer</h3></header>
+						<p>Click on a service to learn more about it.</p>
+						<section id="plans">
+							<article>
+								<header>
+									<h2>VPS Hosting</h2>
+									<p>Starting at $1.25</p>
+								</header>
+								<div class="details">
+									<a href="/vps" class="bttn purple">Learn More</a>
+								</div>
+							</article>
+							<article>
+								<header>
+									<h2>Dedicated Servers</h2>
+									<p>Starting at $109</p>
+								</header>
+								<div class="details">
+									<a href="/dedicated" class="bttn purple">Learn More</a>
+								</div>
+							</article>
+							<article>
+								<header>
+									<h2>Web Hosting</h2>
+									<p>Starting at $4.95</p>
+								</header>
+								<div class="details">
+									<a href="/web-hosting" class="bttn purple">Learn More</a>
+								</div>
+							</article>
+							<article>
+								<header>
+									<h2>Colocation</h2>
+									<p>Starting at $60</p>
+								</header>
+								<div class="details">
+									<a href="/colocation" class="bttn purple">Learn More</a>
+								</div>
+							</article>
+						</section>
+					</article>
+					<article class="locations">
+						<header><h3>Our Locations</h3></header>
+						<p>We currently offer services in Dallas and Los Angeles.</p>
+						<div class="map">
+							<div class="marker dallas">
+								<i class="icon icn-star"></i>
+								<div class="info extralines">
+									<b>Dallas</b>
+									<span><a href="/web-hosting">Web Hosting</a></span>
+									<span><a href="/vps">SSD VPS</a> &amp; <a href="/vps">Storage VPS</a></span>
+									<span><a href="/dedicated">Dedicated</a></span>
+									<span><a href="/colocation">Colocation</a></span>
+								</div>
+							</div>
+							<div class="marker la">
+								<i class="icon icn-star"></i>
+								<div class="info">
+									<b>Los Angeles</b>
+									<span><a href="/vps">SSD VPS</a></span>
+								</div>
+							</div>
+						</div>
+					</article>
+				</section>
+			</div>
+		</div>
+			
+		<div class="body">	
+			<div class="wrapper">
+				<section class="features">
+					<article>
+						<i class="icon icn-meter2"></i>
+						<h3>Premium Hardware</h3>
+						<p>All of our servers are built with high quality server grade parts, for ultimate performance.</p>
+					</article>
+					<article>
+						<i class="icon icn-cloud-upload"></i>
+						<h3>Top Tier Network</h3>
+						<p>Our Juniper-backed dual stack network utilizes multiple redundant 10Gbit uplinks for maximum uptime.</p>
+					</article>
+					<article>
+						<i class="icon icn-hipster"></i>
+						<h3>Great Support</h3>
+						<p>Need a hand with your service? A staff member is just a click away through our billing center.</p>
+					</article>
+					<article>
+						<i class="icon icn-magic-wand"></i>
+						<h3>Simple Management</h3>
+						<p>We include powerful control options with all hosting plans, making it easy to manage your service.</p>
+					</article>
+				</section>
+			</div>
+		</div>
+<?php require_once('structure/footer.php'); ?>

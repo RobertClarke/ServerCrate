@@ -1,67 +1,112 @@
-<?php $page["page"] = "home"; $page["title"] = "High Performance Web Hosting"; include("./incl/header.php"); ?>
-    <div id="content" class="notop">
-        <div id="contentContainer">
-            <div id="product-boxes">
-                <h1>Get More Out Of Your Web Hosting</h1>
-                <div class="product first">
-                    <h3>Web Hosting <span>Create an online presence in minutes</span></h3>
-                    <div class="content">
-                        <p>Each of our web hosting plans feature a rock-solid 99.9% Server & Network Uptime Guarantee which ensures that your website will be online and ready for you and your visitors.</p>
-                        <div class="buttons"><a href="/web-hosting" class="button">More Info</a> <a href="/web-hosting" class="button buy">Order Now</a><div class="clear"></div></div>
-                    </div>
-                </div>
-                <div class="product middle">
-                    <h3>VPS Hosting <span>Powerful Virtual Private Server solutions</span></h3>
-                    <div class="content">
-                        <p>Our SSD-powered OpenVZ Linux hosting is a powerful tool for your applications and websites. Dedicated RAM, SSD space and instant setup ensure that you're up and running in minutes.</p>
-                        <div class="buttons"><a href="/vps" class="button">More Info</a> <a href="/vps" class="button buy">Order Now</a><div class="clear"></div></div>
-                    </div>
-                </div>
-                <div class="product last">
-                    <h3>Dedicated Hosting <span>Unmetered dedicated power</span></h3>
-                    <div class="content">
-                        <p>If you need the most powerful solution for your business, look no further than our dedicated server line. Plenty of bandwidth, RAM, and disk space mean the best value for your money.</p>
-                        <div class="buttons"><a href="https://stock.servercrate.com/" class="button">More Info</a> <a href="https://stock.servercrate.com/" class="button buy">Order Now</a><div class="clear"></div></div>
-                    </div>
-                </div>
-            </div><div class="clear"></div>
-            <hr />
-            <div class="domain-form">
-                <form action="domain.php" method="GET">
-                <input type="text" name="domain" id="domain" class="domain" placeholder="Find your perfect domain name, and start your own site today." value="" />
-                <input type="submit" name="submit" id="submit" class="submit" value="Search" />
-                </form>
-                <div class="clear"></div>
-                <p>.com, .net, .org</p>
-            </div>
-            <hr class="notop" />
-            <div class="home-about">
-                <div class="side-text">
-                    <h2>Learn A Bit About Us And Our Team</h2>
-                    <p class="nospace justify">Thank you for considering ServerCrate as your server hosting choice. We guarantee client satisfaction as we are dedicated to both our clients and company. Our dedicated team has put their time and efforts into making our company and services the best they could be.
-                    </br></br>
-                    Our team is working on a daily basis to improve our services, website, and more. We are dedicated to two main things at ServerCrate: our clients and the quality of service that we provide.</p>
-                </div>
-                <div class="testimonial">
-                    <h2>What Our Clients Say</h2>
-                    <ul id="testimonial-slider">
-                        <li>
-                            <p class="justify">" Out of all the hosting providers I've been with, ServerCrate has definitely been top notch in all aspects. Their customer support is unlike any other, and while I've been with them, I've noticed very minimal downtime. If you're looking for a long-term hosting provider, your best bet is ServerCrate."</p>
-                            <span>- <b>Coby</b></span>
-                        </li>
-                        <li>
-                            <p class="justify">"I've been using ServerCrate services for the last year, and I've noticed rock solid support and service during that time. The support staff is prompt at responding to my questions, and helpful in getting my website back online in the event of an issue."</p>
-                            <span>- <b>Febby</b></span>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        <div class="clear"></div>
-        </div>
-    </div>
-    <script type="text/javascript">
-    $(document).ready(function(){
-        $('#testimonial-slider').bxSlider({ mode: 'vertical', speed: 800, controls: false, auto: true, pause: 9500 });
-    });
-    </script>
-<?php include("./incl/footer.php"); ?>
+<?php
+
+$page = [
+	'id'		=>	'home',
+	'title'		=>	NULL,
+	'seo_desc'	=>	NULL,
+	'seo_tags'	=>	NULL,
+	'cta_title'	=>	'ServerCrate',
+	'cta_desc'	=>	NULL
+];
+
+require_once('structure/header.php');
+
+?>
+		<div class="body alt">
+			<div class="wrapper">
+				<section id="plans">
+					<article>
+						<header>
+							<h2>VPS Hosting</h2>
+							<p>Starting at $1.25</p>
+						</header>
+						<div class="details">
+							<ul>
+								<li>Instant Setup</li>
+								<li>RAID 10 SSD Drives</li>
+								<li>SSD and HDD Available</li>
+								<li>Network up to 10Gbit</li>
+							</ul>
+							<a href="/vps" class="bttn purple">Order Now</a>
+						</div>
+					</article>
+					<article class="top">
+						<header>
+							<h2>Dedicated Servers</h2>
+							<p>Starting at $109</p>
+						</header>
+						<div class="details">
+							<ul>
+								<li>Fast Setup</li>
+								<li>Dedicated IPMI/KVM</li>
+								<li>ECC RAM + Gbit Network</li>
+								<li>Custom Deployments Available</li>
+							</ul>
+							<a href="/dedicated" class="bttn">Order Now</a>
+						</div>
+					</article>
+					<article>
+						<header>
+							<h2>Web Hosting</h2>
+							<p>Starting at $4.95</p>
+						</header>
+						<div class="details">
+							<ul>
+								<li>Powerful Control Panel</li>
+								<li>Daily Backups</li>
+								<li>Global DNS</li>
+								<li>Automated Software Installation</li>
+							</ul>
+							<a href="/web-hosting" class="bttn purple">Order Now</a>
+						</div>
+					</article>
+					<article>
+						<header>
+							<h2>Colocation</h2>
+							<p>Starting at $60</p>
+						</header>
+						<div class="details">
+							<ul>
+								<li>Courtesy Remote Hands</li>
+								<li>Locking Racks</li>
+								<li>SSAE16 Datacenter</li>
+								<li>Additional IPMI/OOB Uplink</li>
+							</ul>
+							<a class="bttn plain">Coming Soon</a>
+						</div>
+					</article>
+				</section>
+			</div>
+		</div>
+			
+		<div class="body">	
+			<div class="wrapper">
+				<section class="cta spaced">
+					<h1>Why do people choose ServerCrate? It's simple.</h1>
+					<h2><span>We offer powerful, reliable and scalable hosting solutions, backed with incredible support.</span> Whether you’re hosting a small personal website or serve high volumes of traffic, we have a solution for you.</h2>
+				</section>
+				<section class="features">
+					<article>
+						<i class="icon icn-meter2"></i>
+						<h3>Premium Hardware</h3>
+						<p>All of our servers are built with high quality server grade parts, for ultimate performance.</p>
+					</article>
+					<article>
+						<i class="icon icn-cloud-upload"></i>
+						<h3>Top Tier Network</h3>
+						<p>Our Juniper-backed dual stack network utilizes multiple redundant 10Gbit uplinks for maximum uptime.</p>
+					</article>
+					<article>
+						<i class="icon icn-hipster"></i>
+						<h3>Great Support</h3>
+						<p>Need a hand with your site? A staff member is just a click away through our billing center.</p>
+					</article>
+					<article>
+						<i class="icon icn-magic-wand"></i>
+						<h3>Simple Management</h3>
+						<p>We include powerful control options with all hosting plans, making it easy to manage your service.</p>
+					</article>
+				</section>
+			</div>
+		</div>
+<?php require_once('structure/footer.php'); ?>

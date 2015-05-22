@@ -1,11 +1,42 @@
-<?php $page["page"] = "support"; $page["title"] = "Support"; include("./incl/header.php"); ?>
-    <h1 class="txtTitle">ServerCrate Customer Support</h1>
-    <div id="content">
-        <div id="contentContainer">
-            <h2>Customer Support Portal</h2>
-            <p>If you require any assistance with any of your services or simply have questions for our sales or support team, please use our customer portal to get in contact. Our customer portal provides each of our customers with a simple and easy-to-use interface which allows them to quickly and easily access current &amp; previous invoices, active &amp; closed support requests, active &amp; inactive domains, affiliate commissions, and so much more. Please use the link below to get in contact with a ServerCrate team member:</p>
-            <p class="nospace"><a href="http://ServerCrate.com/billing/submitticket.php"><b>&raquo; Click Here to Contact Us</b></a></p>
-        <div class="clear"></div>
-        </div>
-    </div>
-<?php include("./incl/footer.php"); ?>
+<?php
+
+$page = [
+	'id'		=>	'support',
+	'title'		=>	'Support',
+	'seo_desc'	=>	NULL,
+	'seo_tags'	=>	NULL,
+	'cta_title'	=>	Support,
+	'cta_desc'	=>	" "
+];
+
+require_once('structure/header.php');
+
+?>
+		<div class="body">
+			<div class="wrapper">
+				<section class="cta spaced">
+					<p>Please choose a department below</p>
+				</section>
+				<div id="departments">
+					<section>
+						<article>
+							<p><a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3">Sales</a></p>
+							<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn blue">Select</a>
+						</article>
+						<article>
+							<p><a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=1">Billing</a></p>
+							<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=1" class="bttn blue">Select</a>
+						</article>
+						<article>
+							<p><a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=2">Support</a></p>
+							<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=2" class="bttn blue">Select</a>
+						</article>
+						<article>
+							<p><a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=4">Minecraft Support</a></p>
+							<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=4" class="bttn blue">Select</a>
+						</article>
+					</section>
+				</div>
+			</div>
+		</div>
+<?php require_once('structure/footer.php'); ?>

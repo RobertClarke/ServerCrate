@@ -1,45 +1,175 @@
-<?php 
-    $page["page"] = "vps-hosting"; 
-    $page["title"] = "SSD VPS Hosting"; 
-    $page["description"] = "OpenVZ VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.";
-    $page["keywords"] = "dallas vps, ssd vps, ssd vps hosting, dallas server";
-    include("./incl/header.php"); 
+<?php
+
+$page = [
+	'id'		=>	'vps',
+	'title'		=>	'SSD VPS Hosting',
+	'seo_desc'	=>	'VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.',
+	'seo_tags'	=>	'dallas vps, ssd vps, ssd vps hosting, dallas server',
+	'cta_title'	=>	"VPS Hosting",
+	'cta_desc'	=>	"Instant virtual private server solutions."
+];
+
+require_once('structure/header.php');
+
 ?>
-    <h1 class="imgTitle plans">SSD VPS Hosting</h1>
-    <div id="content">
-        <div id="contentContainer">
-            <h3>Use the orange sliding knob to select the amount of resources you'd like to start with.</h3>
-            <div class="vpsSelect">
-                <div id="slider"></div>
-                <div class="details">
-                    <ul>
-                        <li class="ram">---</li>
-                        <li class="disk">---</li>
-                        <li class="data">---</li>
-                        <li class="cost">---</li>
-                    </ul>
-                </div>
-                <div class="order"><a href="#">Order Now</a></div>
-                <div class="clear"></div>
-                <div class="sliderOverlayContainer"><div id="sliderOverlay"></div></div>
-            </div>
-            <p class="smallCenter">Additional IP addresses are available during the checkout process.</p>
-            <hr class="notop" />
-            <div class="one-third">
-                <h2 class="icon computer">High Quality Hardware</h2>
-                <p>Our servers are built with only the latest Intel E3v2 processors, high quality Supermicro server grade motherboards, and high performance Samsung and Intel solid state drives to ensure speed and reliability for each customer.</p>
-            </div>
-            <div class="one-third">
-                <h2 class="icon network">DDOS-Protected Network</h2>
-                <p>Our servers are located in Dallas, TX inside a state-of-the-art, secure data center facility and features premium bandwidth connections to multiple bandwidth providers for maximum reliability and speed, along with DDOS protection  at no additional charge.</p>
-            </div>
-            <div class="one-third last">
-                <h2 class="icon thumbup">Premium Support</h2>
-                <p>We guarantee premium support, period. If any issues are to arise with any of your hosted services, you'll always be assisted by a dedicated ServerCrate team member who will quickly resolve any issues.</p>
-            </div>
-            <div class="clear"></div>
-            <p class="viewall"><a href="./features.php">View All Features &raquo;</a></p>
-            <hr class="nospace" /><div class="clear"></div>
-        </div>
-    </div>
-<?php include("./incl/footer.php"); ?>
+		<div class="body">
+			<div class="wrapper">
+				<section class="cta">
+					<p>Our OpenVZ Linux hosting is a powerful tool for your applications and websites. Dedicated RAM, SSD space and instant setup ensure that you're up and running in minutes.</p>
+				</section>
+			</div>
+		</div>
+		
+		<div class="body alt">
+			<div class="wrapper">
+				<section id="plans" class="sections">
+					<section>
+						<header class="types">
+							<h2><span class="blue">Standard</span> VPS</h2>
+						</header>
+						<article>
+							<header>
+								<h2>OpenVZ + SSD</h2>
+								<p>Starting at $1.25</p>
+							</header>
+							<div class="details">
+								<ul>
+									<li>OpenVZ server virtualization</li>
+									<li>Intel E3 CPUs (3.3GHz+ per core)</li>
+									<li>Hardware RAID 10 SSD</li>
+									<li>Gigabit network ports</li>
+								</ul>
+								<a href="/vps-ssdvz" class="bttn blue">Order Now</a>
+							</div>
+						</article>
+						<article>
+							<header>
+								<h2>KVM + SSD</h2>
+								<p>Starting at $3.75</p>
+							</header>
+							<div class="details">
+								<ul>
+									<li>KVM server virtualization</li>
+									<li>Intel E3 CPUs (3.3GHz+ per core)</li>
+									<li>Hardware RAID 10 SSD</li>
+									<li>Gigabit network ports</li>
+								</ul>
+								<a class="bttn plain">Coming Soon</a>
+							</div>
+						</article>
+					</section>
+					<section class="full">
+						<header class="types">
+							<h2><span class="green">Storage</span> VPS</h2>
+						</header>
+						<article>
+							<header>
+								<h2>OpenVZ + HDD</h2>
+								<p>Starting at $10.00</p>
+							</header>
+							<div class="details">
+								<ul>
+									<li>OpenVZ server virtualization</li>
+									<li>Intel E3 CPUs (3.3GHz+ per core)</li>
+									<li>Hardware RAID 10 HDD</li>
+									<li>10 Gigabit network ports</li>
+								</ul>
+								<ul>
+									<li>RAID battery backup</li>
+									<li>Instant setup</li>
+									<li>Friendly support</li>
+									<li>Enterprise drives</li>
+								</ul>
+								<a href="/vps-storage" class="bttn green">Order Now</a>
+							</div>
+						</article>
+					</section>
+				</section>
+				<div class="more-info">
+					<a href="#standard-vs-storage" class="bttn plain scroll">Standard vs. Storage</a>
+					<!--<a href="#openvz-vs-kvm" class="bttn plain scroll">OpenVZ vs. KVM</a>-->
+				</div>
+			</div>
+		</div>
+			
+		<div class="body">	
+			<div class="wrapper">
+				<section class="features">
+					<article>
+						<i class="icon icn-meter2"></i>
+						<h3>Premium Hardware</h3>
+						<p>All of our servers are built in-house with high quality server grade parts, for ultimate performance.</p>
+					</article>
+					<article>
+						<i class="icon icn-cloud-upload"></i>
+						<h3>DDOS Mitigation</h3>
+						<p>Our included DDOS mitigation platform keeps your service protected from even the largest attacks.</p>
+					</article>
+					<article>
+						<i class="icon icn-hipster"></i>
+						<h3>Great Support</h3>
+						<p>Need a hand with your VPS? A staff member is just a click away through our billing center.</p>
+					</article>
+					<article>
+						<i class="icon icn-magic-wand"></i>
+						<h3>Simple Management</h3>
+						<p>We include SolusVM with all servers, making it easy to manage your VM with just a few clicks.</p>
+					</article>
+				</section>
+				<div class="sep"></div>
+				<section id="standard-vs-storage" class="compare">
+					<header><h2><span class="blue">Standard</span> vs. <span class="green">Storage</span></h2></header>
+					<article class="blue">
+						<h3>Standard VPS</h3>
+						<p>Perfect for small websites and applications</p>
+						<p class="desc">Our standard SSD VPS hosting line is great for all-purpose Linux applications. Pure RAID 10 SSD storage combined with high-clock CPUs, make for bleed-edge speed with your service. Included DDOS mitigation, IPv6 addresses, self-set rDNS, and many more make our VPS hosting line one of the most feature-rich out there.</p>
+						<a href="/vps-ssdvz" class="bttn blue">View Plans</a>
+					</article>
+					<article class="green">	
+						<h3>Storage VPS</h3>
+						<p>Perfect for storing large amounts of files</p>
+						<p class="desc">We designed our Storage VPS line to offer high-storage VPS with plenty of bandwidth and RAM. Not only do these servers boast a large amount of RAID 10 HDD space, but can also be used for light application purposes. One of the main differences between our SSD line is the addition of 10gbit network ports on all host nodes.</p>
+						<a href="/vps-storage" class="bttn green">View Plans</a>
+					</article>
+				</section>
+				<!--<div class="sep"></div>
+				<section id="openvz-vs-kvm" class="compare">
+					<header><h2>OpenVZ vs. KVM</h2></header>
+					<article>
+						<h3>OpenVZ</h3>
+						<p>Perfect for small websites and applications</p>
+						<ul>
+							<li>Server grade hardware</li>
+							<li>Premium SSD drives</li>
+							<li>Complete DDOS protection</li>
+							<li>Gigabit network ports</li>
+						</ul>
+						<ul>
+							<li>Server grade hardware</li>
+							<li>Premium SSD drives</li>
+							<li>Complete DDOS protection</li>
+							<li>Gigabit network ports</li>
+						</ul>
+						<a href="/vps-ssdvz" class="bttn blue">View Plans</a>
+					</article>
+					<article>	
+						<h3>KVM</h3>
+						<p>Perfect for storing large amounts of files</p>
+						<ul>
+							<li>Server grade hardware</li>
+							<li>Premium SSD drives</li>
+							<li>Complete DDOS protection</li>
+							<li>Gigabit network ports</li>
+						</ul>
+						<ul>
+							<li>Server grade hardware</li>
+							<li>Premium SSD drives</li>
+							<li>Complete DDOS protection</li>
+							<li>Gigabit network ports</li>
+						</ul>
+						<a class="bttn plain">Coming Soon</a>
+					</article>
+				</section>-->
+			</div>
+		</div>
+<?php require_once('structure/footer.php'); ?>
