@@ -4,7 +4,7 @@
 $p = [
 	'id'		=>	!empty($page['id']) ? $page['id']				: '',
 	'title'		=>	!empty($page['title']) ? $page['title']			: 'High Performance Hosting',
-	'seo_desc'	=>	!empty($page['seo_desc']) ? $page['seo_desc']	: 'ServerCrate is a hosting business providing web, vps, game, and dedicated server hosting based in Dallas.',
+	'seo_desc'	=>	!empty($page['seo_desc']) ? $page['seo_desc']	: 'ServerCrate is a hosting business providing web, vps, and dedicated server hosting based in Dallas.',
 	'seo_tags'	=>	!empty($page['seo_tags']) ? $page['seo_tags']	: 'server hosting, server hosting dallas, game hosting, game servers',
 	'cta_title'	=>	!empty($page['cta_title']) ? $page['cta_title']	: 'Powerful &amp; Reliable Hosting',
 	'cta_desc'	=>	!empty($page['cta_desc']) ? $page['cta_desc']	: 'Incredible power with affordable pricing.'
