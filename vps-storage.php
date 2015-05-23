@@ -1,9 +1,9 @@
 <?php
 
 $page = [
-	'id'		=>	'vps',
-	'title'		=>	'Storage SSD VPS Hosting',
-	'seo_desc'	=>	'SSD Storage VPSs located in Dallas, runvps-ssdvz.phpning on SSDs and high-clock CPUs with lots of extra available features.',
+	'id'		=>	'vps-storage',
+	'title'		=>	'Storage VPS Hosting',
+	'seo_desc'	=>	'Storage VPSs located in Dallas, running on HDDs and high-clock CPUs with lots of extra available features.',
 	'seo_tags'	=>	'dallas vps, ssd vps, ssd vps hosting, dallas server, openvz',
 	'cta_title'	=>	'OpenVZ Storage VPS',
 	'cta_desc'	=>	' '
@@ -26,7 +26,7 @@ require_once('structure/header.php');
 					<h3>Build OpenVZ VPS Package</h3>
 					<div id="select">
 						<div class="top">
-							<div id="spec-storage" class="spec"><span>---</span> SSD Space</div>
+							<div id="spec-storage" class="spec"><span>---</span> HDD Space</div>
 							<div id="spec-raid" class="spec"><span>RAID 10</span> RAID</div>
 							<div id="spec-memory" class="spec"><span>---</span> Memory</div>
 							<div id="spec-bandwidth" class="spec"><span>---</span> Bandwidth</div>
