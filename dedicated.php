@@ -43,7 +43,7 @@ require_once('structure/header.php');
 								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>109</strong><span>/mo</span></div>
+									<div class="price">$<strong>99</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/cart.php?a=add&pid=48" class="bttn blue">Configure</a>
 								</td>
 							</tr>
@@ -54,7 +54,7 @@ require_once('structure/header.php');
 								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>119</strong><span>/mo</span></div>
+									<div class="price">$<strong>109</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
 								</td>
 							</tr>
@@ -65,7 +65,7 @@ require_once('structure/header.php');
 								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>119</strong><span>/mo</span></div>
+									<div class="price">$<strong>109</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/cart.php?a=add&pid=43" class="bttn blue">Configure</a>
 								</td>
 							</tr>
@@ -76,7 +76,7 @@ require_once('structure/header.php');
 								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>149</strong><span>/mo</span></div>
+									<div class="price">$<strong>129</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
 								</td>
 							</tr>
@@ -87,7 +87,7 @@ require_once('structure/header.php');
 								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>149</strong><span>/mo</span></div>
+									<div class="price">$<strong>129</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/cart.php?a=add&pid=42" class="bttn blue">Configure</a>
 								</td>
 							</tr>
