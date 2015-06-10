@@ -44,7 +44,8 @@ require_once('structure/header.php');
 								<td><i class="icn-checkmark"></i></td>
 								<td>
 									<div class="price">$<strong>99</strong><span>/mo</span></div>
-									<a href="https://billing.servercrate.com/cart.php?a=add&pid=48" class="bttn blue">Configure</a>
+									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
+									<!-- https://billing.servercrate.com/cart.php?a=add&pid=48 -->
 								</td>
 							</tr>
 							<tr>
