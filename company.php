@@ -64,7 +64,7 @@ require_once('structure/header.php');
 									<p>Starting at $60</p>
 								</header>
 								<div class="details">
-									<a href="/colocation" class="bttn purple">Learn More</a>
+									<a class="bttn plain">Coming SOon</a>
 								</div>
 							</article>
 						</section>
@@ -80,7 +80,6 @@ require_once('structure/header.php');
 									<span><a href="/web-hosting">Web Hosting</a></span>
 									<span><a href="/vps">SSD VPS</a> &amp; <a href="/vps">Storage VPS</a></span>
 									<span><a href="/dedicated">Dedicated</a></span>
-									<span><a href="/colocation">Colocation</a></span>
 								</div>
 							</div>
 							<div class="marker la">

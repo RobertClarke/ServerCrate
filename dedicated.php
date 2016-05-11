@@ -37,62 +37,78 @@ require_once('structure/header.php');
 						</thead>
 						<tbody>
 							<tr>
-								<td><strong>Intel Quad Core</strong> E3-1230v2 3.3Ghz</td>
+								<td><strong>E3-1230v2 3.3Ghz</strong> 4 Cores, 8 Threads, 3.7GHz Turbo</td>
 								<td><strong>16GB</strong> ECC</td>
 								<td><strong>1x 120GB SSD</strong></td>
-								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
+								<td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>99</strong><span>/mo</span></div>
-									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
+									<div class="price">$<strong>109</strong><span>/mo</span></div>
+									<a href="https://billing.servercrate.com/cart.php?a=add&pid=48" class="bttn blue">Configure</a>
 									<!-- https://billing.servercrate.com/cart.php?a=add&pid=48 -->
 								</td>
 							</tr>
 							<tr>
-								<td><strong>Intel Quad Core</strong> E3-1230v2 3.3Ghz</td>
-								<td><strong>16GB</strong> ECC</td>
-								<td><strong>2x 120GB SSD</strong> Software RAID 1</td>
-								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
-								<td><i class="icn-checkmark"></i></td>
-								<td>
-									<div class="price">$<strong>109</strong><span>/mo</span></div>
-									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
-								</td>
-							</tr>
-							<tr>
-								<td><strong>Intel Quad Core</strong> E3-1270v2 3.5Ghz</td>
+								<td><strong>E3-1231v3 3.4Ghz</strong> 4 Cores, 8 Threads, 3.8GHz Turbo</td>
 								<td><strong>16GB</strong> ECC</td>
 								<td><strong>1x 120GB SSD</strong></td>
-								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
+								<td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>109</strong><span>/mo</span></div>
-									<a href="https://billing.servercrate.com/cart.php?a=add&pid=43" class="bttn blue">Configure</a>
+									<div class="price">$<strong>119</strong><span>/mo</span></div>
+									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
+                                                                        <!-- https://servercrate.com/billing/cart.php?a=add&pid=52 -->
 								</td>
 							</tr>
 							<tr>
-								<td><strong>Intel Quad Core</strong> E3-1230v2 3.3Ghz</td>
+								<td><strong>E3-1270v2 3.5Ghz</strong> 4 Cores, 8 Threads, 3.9GHz Turbo</td>
+								<td><strong>16GB</strong> ECC</td>
+								<td><strong>1x 120GB SSD</strong></td>
+								<td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
+								<td><i class="icn-checkmark"></i></td>
+								<td>
+									<div class="price">$<strong>119</strong><span>/mo</span></div>
+									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>  
+                                                                        <!-- https://servercrate.com/billing/cart.php?a=add&pid=43 -->
+								</td>
+							</tr>
+							<tr>
+								<td><strong>E3-1230v2 3.3Ghz</strong> 4 Cores, 8 Threads, 3.7GHz Turbo</td>
 								<td><strong>32GB</strong> ECC</td>
 								<td><strong>2x 120GB SSD</strong> Software RAID 1</td>
-								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
+								<td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>129</strong><span>/mo</span></div>
-									<a href="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Sold Out</a>
+									<div class="price">$<strong>139</strong><span>/mo</span></div>
+									<a href="https://servercrate.com/billing/cart.php?a=add&pid=23" class="bttn blue">Configure</a>
+                                                                        <!-- https://servercrate.com/billing/cart.php?a=add&pid=23 -->
 								</td>
 							</tr>
 							<tr>
-								<td><strong>Intel Quad Core</strong> E3-1230v2 3.3Ghz</td>
+								<td><strong>E3-1230v2 3.3Ghz</strong> 4 Cores, 8 Threads, 3.7GHz Turbo</td>
 								<td><strong>32GB</strong> ECC</td>
 								<td><strong>1x 250GB SSD</strong></td>
-								<td><strong>10TB @ 1Gbps</strong> /28 IPv4</td>
+								<td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
 								<td><i class="icn-checkmark"></i></td>
 								<td>
-									<div class="price">$<strong>129</strong><span>/mo</span></div>
+									<div class="price">$<strong>139</strong><span>/mo</span></div>
 									<a href="https://billing.servercrate.com/cart.php?a=add&pid=42" class="bttn blue">Configure</a>
+                                                                        <!-- https://billing.servercrate.com/cart.php?a=add&pid=42 -->
 								</td>
 							</tr>
-						</tbody>
+
+                                                        <tr>
+                                                                <td><strong>E3-1230v5 3.4Ghz</strong> 4 Cores, 8 Threads, 3.8GHz Turbo</td>
+                                                                <td><strong>32GB</strong> ECC</td>
+                                                                <td><strong>2x 120GB SSD</strong> Software RAID 1</td>
+                                                                <td><strong>10TB @ 2Gbps</strong> /29 IPv4</td>
+                                                                <td><i class="icn-checkmark"></i></td>
+                                                                <td>
+                                                                        <div class="price">$<strong>149</strong><span>/mo</span></div>
+                                                                        <a href="https://billing.servercrate.com/cart.php?a=add&pid=50" class="bttn blue">Configure</a>
+                                                                        <!-- https://billing.servercrate.com/cart.php?a=add&pid=42 -->
+                                                                </td>
+                                                        </tr>						</tbody>
 					</table>
 				</section>
 			</div>
