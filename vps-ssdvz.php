@@ -82,6 +82,7 @@ require_once('structure/header.php');
 										<select id="vps-loc">
 											<option value="45">Dallas</option>
 											<option value="171">Los Angeles</option>
+											<option value="213">Seattle</option>
 										</select>
 									</div>
 									<div>
