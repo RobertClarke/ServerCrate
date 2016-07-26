@@ -19,7 +19,7 @@ require_once('structure/header.php');
 				</section>
 			</div>
 		</div>
-		
+
 		<div class="body alt">
 			<div class="wrapper">
 				<section id="about">
@@ -64,14 +64,14 @@ require_once('structure/header.php');
 									<p>Starting at $60</p>
 								</header>
 								<div class="details">
-									<a class="bttn plain">Coming SOon</a>
+									<a class="bttn plain">Coming Soon</a>
 								</div>
 							</article>
 						</section>
 					</article>
 					<article class="locations">
 						<header><h3>Our Locations</h3></header>
-						<p>We currently offer services in Dallas and Los Angeles.</p>
+						<p>We currently offer services in Dallas, Los Angeles and Seattle.</p>
 						<div class="map">
 							<div class="marker dallas">
 								<i class="icon icn-star"></i>
@@ -89,13 +89,21 @@ require_once('structure/header.php');
 									<span><a href="/vps">SSD VPS</a></span>
 								</div>
 							</div>
+							<div class="marker seattle">
+								<i class="icon icn-star"></i>
+								<div class="info">
+									<b>Seattle</b>
+									<span><a href="/vps">SSD VPS</a></span>
+									<span><a href="/dedicated">Dedicated</a></span>
+								</div>
+							</div>
 						</div>
 					</article>
 				</section>
 			</div>
 		</div>
-			
-		<div class="body">	
+
+		<div class="body">
 			<div class="wrapper">
 				<section class="features">
 					<article>
