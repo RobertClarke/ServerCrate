@@ -69,36 +69,6 @@ require_once('structure/header.php');
 							</article>
 						</section>
 					</article>
-					<article class="locations">
-						<header><h3>Our Locations</h3></header>
-						<p>We currently offer services in Dallas, Los Angeles and Seattle.</p>
-						<div class="map">
-							<div class="marker dallas">
-								<i class="icon icn-star"></i>
-								<div class="info extralines">
-									<b>Dallas</b>
-									<span><a href="/web-hosting">Web Hosting</a></span>
-									<span><a href="/vps">SSD VPS</a> &amp; <a href="/vps">Storage VPS</a></span>
-									<span><a href="/dedicated">Dedicated</a></span>
-								</div>
-							</div>
-							<div class="marker la">
-								<i class="icon icn-star"></i>
-								<div class="info">
-									<b>Los Angeles</b>
-									<span><a href="/vps">SSD VPS</a></span>
-								</div>
-							</div>
-							<div class="marker seattle">
-								<i class="icon icn-star"></i>
-								<div class="info">
-									<b>Seattle</b>
-									<span><a href="/vps">SSD VPS</a></span>
-									<span><a href="/dedicated">Dedicated</a></span>
-								</div>
-							</div>
-						</div>
-					</article>
 				</section>
 			</div>
 		</div>
