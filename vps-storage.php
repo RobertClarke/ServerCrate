@@ -12,14 +12,6 @@ $page = [
 require_once('structure/header.php');
 
 ?>
-		<!--<div class="body">
-			<div class="wrapper">
-				<section class="cta">
-					<p>Nulla vitae elit libero, a pharetra augue. Donec sed odio dui. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-				</section>
-			</div>
-		</div>-->
-		
 		<div class="body alt">
 			<div class="wrapper">
 				<section id="slider">
@@ -75,7 +67,7 @@ require_once('structure/header.php');
 									<div>
 										<label>Server Location</label>
 										<select id="vps-loc">
-											<option value="194">Dallas</option>
+											<option value="194">Seattle, WA</option>
 										</select>
 									</div>
 									<div>
