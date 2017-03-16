@@ -3,8 +3,8 @@
 $page = [
 	'id'		=>	'vps',
 	'title'		=>	'SSD VPS Hosting',
-	'seo_desc'	=>	'VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.',
-	'seo_tags'	=>	'dallas vps, ssd vps, ssd vps hosting, dallas server',
+	'seo_desc'	=>	'VPSs located in Seattle, running on SSDs and high-clock CPUs with lots of extra available features.',
+	'seo_tags'	=>	'seattle vps, ssd vps, ssd vps hosting, seattle server',
 	'cta_title'	=>	"VPS Hosting",
 	'cta_desc'	=>	"Instant virtual private server solutions."
 ];
