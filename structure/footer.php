@@ -33,7 +33,7 @@
 					<article>
 						<h3>Customer Support</h3>
 						<ul>
-							<li><a href="https://servercrate.com/billing/submitticket.php">Contact Us</a></li>
+							<li><a href="https://servercrate.com/contact">Contact Us</a></li>
 							<li><a href="https://servercrate.com/billing/supporttickets.php">Support Tickets</a></li>
 							<li><a href="https://servercrate.com/billing/knowledgebase.php">Knowledgebase</a></li>
 						</ul>
