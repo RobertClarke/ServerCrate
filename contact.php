@@ -5,7 +5,7 @@ $page = [
 	'title'		=>	'Contact Us',
 	'seo_desc'	=>	NULL,
 	'seo_tags'	=>	NULL,
-	'cta_title'	=>	Support,
+	'cta_title'	=>	Contact Us,
 	'cta_desc'	=>	" "
 ];
 
