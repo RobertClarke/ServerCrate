@@ -25,7 +25,7 @@ require_once('structure/header.php');
 				<section id="about">
 					<article>
 						<header><h3>Network</h3></header>
-						<p>We believe that redundancy is key, and as such we have redundant fiber uplinks throughout our network infrastructure. All inter-rack communication is done over 10gbit SFP+ connections, backed by Enterprise class Juniper routing equipment. Both our LA and Dallas networks include DDOS mitigation solutions, which we include with all services offered in these locations. </p>
+						<p>We believe that redundancy is key, and as such we have redundant fiber uplinks throughout our network infrastructure. All inter-rack communication is done over 10gbit SFP+ connections, backed by Enterprise class Juniper routing equipment.</p>
 					</article>
 					<article class="services">
 						<header><h3>Services We Offer</h3></header>
