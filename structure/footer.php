@@ -49,7 +49,7 @@
 				<section class="bottom">
 					&copy; ServerCrate 2012 - <?php echo date('Y'); ?>
 					<span class="right">
-						<a href="/tos">Terms of Service</a> / <a href="/privacy">Privacy Policy</a> / <a href="http://cubemotion.com" target="_blank">A CubeMotion Company</a>
+						<a href="/tos">Terms of Service</a> / <a href="/privacy">Privacy Policy</a>
 					</span>
 				</section>
 			</div>
