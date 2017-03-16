@@ -3,8 +3,8 @@
 $page = [
 	'id'		=>	'vps',
 	'title'		=>	'OpenVZ SSD VPS Hosting',
-	'seo_desc'	=>	'OpenVZ VPSs located in Dallas, running on SSDs and high-clock CPUs with lots of extra available features.',
-	'seo_tags'	=>	'dallas vps, ssd vps, ssd vps hosting, dallas server, openvz',
+	'seo_desc'	=>	'OpenVZ VPSs located in Seattle, running on SSDs and high-clock CPUs with lots of extra available features.',
+	'seo_tags'	=>	'seattle vps, ssd vps, ssd vps hosting, seattle server, openvz',
 	'cta_title'	=>	'OpenVZ SSD VPS',
 	'cta_desc'	=>	' '
 ];
