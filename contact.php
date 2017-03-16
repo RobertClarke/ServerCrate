@@ -1,8 +1,8 @@
 <?php
 
 $page = [
-	'id'		=>	'support',
-	'title'		=>	'Support',
+	'id'		=>	'contact',
+	'title'		=>	'Contact Us',
 	'seo_desc'	=>	NULL,
 	'seo_tags'	=>	NULL,
 	'cta_title'	=>	Support,
