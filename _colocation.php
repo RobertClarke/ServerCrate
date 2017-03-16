@@ -3,8 +3,8 @@
 $page = [
 	'id'		=>	'colo',
 	'title'		=>	'Server Colocation',
-	'seo_desc'	=>	'Quality server colocation racks located in Dallas.',
-	'seo_tags'	=>	'dallas server colocation, dallas colo, server colocation, colocation, colo',
+	'seo_desc'	=>	'Quality server colocation racks located in Seattle.',
+	'seo_tags'	=>	'seattle server colocation, seattle colo, server colocation, colocation, colo',
 	'cta_title'	=>	"Colocation",
 	'cta_desc'	=>	"Your servers, our datacenter."
 ];
