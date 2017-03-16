@@ -72,7 +72,7 @@ require_once('structure/header.php');
 								<li>SSAE16 Datacenter</li>
 								<li>Additional IPMI/OOB Uplink</li>
 							</ul>
-							<a class="bttn plain">Coming Soon</a>
+							<a href ="https://billing.servercrate.com/submitticket.php?step=2&deptid=3" class="bttn plain">Contact Us</a>
 						</div>
 					</article>
 				</section>
