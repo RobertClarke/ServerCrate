@@ -3,8 +3,8 @@
 $page = [
 	'id'		=>	'dedi',
 	'title'		=>	'Dedicated Server Hosting',
-	'seo_desc'	=>	'High performance dedicated servers located in Dallas.',
-	'seo_tags'	=>	'dallas dedicated server, dedicated server, dallas web hosting, dedicated, dedi',
+	'seo_desc'	=>	'High performance dedicated servers located in Seattle.',
+	'seo_tags'	=>	'seattle dedicated server, dedicated server, seattle web hosting, dedicated, dedi',
 	'cta_title'	=>	"Dedicated server hosting",
 	'cta_desc'	=>	"Unmetered dedicated powered."
 ];
