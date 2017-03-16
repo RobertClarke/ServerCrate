@@ -4,7 +4,7 @@ $page = [
 	'id'		=>	'shared',
 	'title'		=>	'Web Hosting Plans',
 	'seo_desc'	=>	'Starting a web presence can sometimes be difficult, our simple web hosting plans make it easy to start your own website.',
-	'seo_tags'	=>	'web hosting, web hosting dallas, server hosting, cpanel hosting, shared web hosting',
+	'seo_tags'	=>	'web hosting, web hosting seattle, server hosting, cpanel hosting, shared web hosting',
 	'cta_title'	=>	"Web Hosting",
 	'cta_desc'	=>	"Create an online presence in minutes."
 ];
@@ -15,7 +15,7 @@ require_once('structure/header.php');
 		<div class="body">
 			<div class="wrapper">
 				<section class="cta">
-					<p>Our cPanel-backed web hosting platform makes it easy to run your own site. We've built in features such as the Softaculous control panel for quick installations on powerful CMS platforms such as Wordpress. Daily backups, RAID 10 hard drives and redundant power/network connectivity ensure your site is up and running no matter what. Kickstart your presence on the internet today with a web hosting plan from ServerCrate.</p>
+					<p>Our cPanel-backed web hosting platform makes it easy to run your own site. We've built in features such as the Softaculous control panel for quick installations on powerful CMS platforms such as Wordpress. Daily backups, RAID 10 solid state drives and redundant power/network connectivity ensure your site is up and running no matter what. Kickstart your presence on the internet today with a web hosting plan from ServerCrate.</p>
 				</section>
 			</div>
 		</div>
