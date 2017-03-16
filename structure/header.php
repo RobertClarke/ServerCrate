@@ -50,7 +50,7 @@ $p = [
 							<li><a href="/vps">VPS</a></li>
 							<li><a href="/dedicated">Dedicated</a></li>
 							<li><a href="/company">Company</a></li>
-							<li><a href="/support">Support</a></li>
+							<li><a href="/support">Contact us</a></li>
 							<li class="login"><a href="https://billing.servercrate.com/clientarea.php" class="bttn mini"><i class="icn-key2"></i> Login</a></li>
 						</ul>
 					</nav>
