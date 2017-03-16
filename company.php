@@ -15,7 +15,7 @@ require_once('structure/header.php');
 		<div class="body">
 			<div class="wrapper">
 				<section class="cta">
-					<p>ServerCrate is a leading part of the CubeMotion network. Founded in 2012, we strive to offer the best quality and service we can to our clients. Whether you’re hosting a small website or serve high volumes of traffic, we have a solution for you.</p>
+					<p>Founded in 2012, ServerCrate strives to offer the best quality and service we can to our clients. Whether you’re hosting a small website or serve high volumes of traffic, we have a solution for you.</p>
 				</section>
 			</div>
 		</div>
