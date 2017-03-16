@@ -3,8 +3,8 @@
 $page = [
 	'id'		=>	'vps-storage',
 	'title'		=>	'Storage VPS Hosting',
-	'seo_desc'	=>	'Storage VPSs located in Dallas, running on HDDs and high-clock CPUs with lots of extra available features.',
-	'seo_tags'	=>	'dallas vps, ssd vps, ssd vps hosting, dallas server, openvz',
+	'seo_desc'	=>	'Storage VPSs located in Seattle, running on HDDs and high-clock CPUs with lots of extra available features.',
+	'seo_tags'	=>	'seattle vps, ssd vps, ssd vps hosting, seattle server, openvz',
 	'cta_title'	=>	'OpenVZ Storage VPS',
 	'cta_desc'	=>	' '
 ];
