@@ -102,8 +102,8 @@ require_once('structure/header.php');
 					</article>
 					<article>
 						<i class="icon icn-cloud-upload"></i>
-						<h3>Tier-1 Network</h3>
-						<p>ServerCrate utilizes redundant 1Gbps and 10Gbps networking in all locations for fast internet connectivity.</p>
+						<h3>Top Tier Network</h3>
+						<p>Our Juniper-backed dual stack network utilizes multiple redundant 10Gbit uplinks for maximum uptime.</p>
 					</article>
 					<article>
 						<i class="icon icn-hipster"></i>
