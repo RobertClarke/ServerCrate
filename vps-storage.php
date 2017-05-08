@@ -111,8 +111,8 @@ require_once('structure/header.php');
 					</article>
 					<article>
 						<i class="icon icn-cloud-upload"></i>
-						<h3>DDOS Mitigation</h3>
-						<p>Our included DDOS mitigation platform keeps your service protected from even the largest attacks.</p>
+						<h3>Top Tier Network</h3>
+						<p>Our Juniper-backed dual stack network utilizes multiple redundant 10Gbit uplinks for maximum uptime.</p>
 					</article>
 					<article>
 						<i class="icon icn-hipster"></i>
