@@ -53,7 +53,7 @@ require_once('structure/header.php');
 							<ul>
 								<li>Intel E3 CPUs (3.3GHz+ per core)</li>
 								<li>Hardware RAID 10 SSD</li>
-								<li>DDOS mitigation</li>
+								<li>Top Tier Network</li>
 								<li>16 IPv6 addresses</li>
 							</ul>
 						</div>
