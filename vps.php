@@ -102,8 +102,8 @@ require_once('structure/header.php');
 					</article>
 					<article>
 						<i class="icon icn-cloud-upload"></i>
-						<h3>DDOS Mitigation</h3>
-						<p>Our included DDOS mitigation platform keeps your service protected from even the largest attacks.</p>
+						<h3>Tier-1 Network</h3>
+						<p>ServerCrate utilizes redundant 1Gbps and 10Gbps networking in all locations for fast internet connectivity.</p>
 					</article>
 					<article>
 						<i class="icon icn-hipster"></i>
