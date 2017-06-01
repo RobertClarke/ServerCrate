@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="51px" viewBox="0 0 39 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-919.000000, -453.000000)" fill="#212B35">
+            <g id="Features-Left" transform="translate(120.000000, 450.000000)">
+                <g id="Secure" transform="translate(790.000000, 0.000000)">
+                    <g id="icon-lock">
+                        <g id="lock" transform="translate(9.000000, 3.000000)">
+                            <path d="M34.5,18 L33,18 L33,13.5 C33,6.057 26.943,0 19.5,0 C12.057,0 6,6.057 6,13.5 L6,18 L4.5,18 C2.019,18 0,20.019 0,22.5 L0,46.5 C0,48.981 2.019,51 4.5,51 L34.5,51 C36.981,51 39,48.981 39,46.5 L39,22.5 C39,20.019 36.981,18 34.5,18 Z M9,13.5 C9,7.71 13.71,3 19.5,3 C25.29,3 30,7.71 30,13.5 L30,18 L9,18 L9,13.5 Z M36,46.5 C36,47.328 35.328,48 34.5,48 L4.5,48 C3.672,48 3,47.328 3,46.5 L3,22.5 C3,21.672 3.672,21 4.5,21 L34.5,21 C35.328,21 36,21.672 36,22.5 L36,46.5 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
