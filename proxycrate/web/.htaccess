@@ -1,0 +1,8 @@
+RewriteEngine on
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+ErrorDocument 400 /400.php
+Options -Indexes
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]

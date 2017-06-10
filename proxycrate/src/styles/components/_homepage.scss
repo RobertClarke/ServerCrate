@@ -106,6 +106,7 @@
 		display: inline-block;
 		background: url('../images/how-it-works-diagram.png') 0px 0px/1113px 153px no-repeat;
 		margin-bottom: 20px;
+		
 
 		@media screen and (max-width: 1160px) {
 			max-width: 900px;
@@ -252,7 +253,7 @@
 				border-radius: 4px;
 				position: absolute;
 				top: -12px;
-				right: 12px;
+				right: 8px;
 				padding: 6px;
 			}
 			&.custom {
@@ -296,6 +297,10 @@
 
 			&:last-child {
 				margin-bottom: 0;
+			}
+			&.most-popular:before {
+				top: 4px;
+				right: 4px;
 			}
 		}
 	}
@@ -385,6 +390,43 @@
 			h5 {
 				text-align: center;
 			}
+		}
+	}
+}
+
+#contact {
+	margin-top: 20px;
+
+	h6 {
+		margin-bottom: 18px;
+	}
+	.input {
+		margin-bottom: 12px;
+	}
+	.submit-button {
+		display: block;
+		text-align: center;
+		margin-top: 20px;
+	}
+	#contact-success {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-align: center;
+		display: none;
+
+		p {
+			display: block;
+			font-size: 16px;
+			line-height: 26px;
+		}
+		&:before {
+			width: 100px;
+			height: 100px;
+			display: inline-block;
+			background: url('../images/checkmark.png') no-repeat;
+			background-size: 100px 100px;
+			content: '';
+			margin-bottom: 20px;
 		}
 	}
 }

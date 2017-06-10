@@ -9,183 +9,389 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/assets\/css\/main.css": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/src\/scripts\/dep\/jquery.validate.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/web\/assets\/js\/jquery.validate.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/scripts\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/web\/assets\/js\/main.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/styles\/components\/_footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_homepage.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_homepage.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/web\/assets\/css\/main.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/partials\/_input.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_input.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/partials\/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_typography.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/partials\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/web\/assets\/css\/_vars.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/web\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/.htaccess",
+		"oF": 0
+		},
+	"\/web\/400.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/400.php",
+		"oF": 0
+		},
+	"\/web\/403.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/403.php",
+		"oF": 0
+		},
+	"\/web\/404.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/404.php",
+		"oF": 0
+		},
+	"\/web\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/css\/main-min.css",
+		"oAP": "\/web\/assets\/css\/main-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/assets\/images\/how-it-works-diagram-mini.png": {
+	"\/web\/assets\/images\/checkmark.png": {
+		"ft": 32768,
+		"iS": 9929,
+		"oA": 0,
+		"oAP": "\/web\/assets\/images\/checkmark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/assets\/images\/how-it-works-diagram-mini.png": {
 		"ft": 32768,
 		"iS": 80276,
 		"oA": 0,
-		"oAP": "\/assets\/images\/how-it-works-diagram-mini.png",
+		"oAP": "\/web\/assets\/images\/how-it-works-diagram-mini.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/how-it-works-diagram.png": {
+	"\/web\/assets\/images\/how-it-works-diagram.png": {
 		"ft": 32768,
 		"iS": 72377,
 		"oA": 0,
-		"oAP": "\/assets\/images\/how-it-works-diagram.png",
+		"oAP": "\/web\/assets\/images\/how-it-works-diagram.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/images\/icon-cloud.svg": {
+	"\/web\/assets\/images\/icon-cloud.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/icon-cloud.svg",
+		"oAP": "\/web\/assets\/images\/icon-cloud.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/icon-lock.svg": {
+	"\/web\/assets\/images\/icon-lock.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/icon-lock.svg",
+		"oAP": "\/web\/assets\/images\/icon-lock.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/icon-rocket.svg": {
+	"\/web\/assets\/images\/icon-rocket.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/images\/icon-rocket.svg",
+		"oAP": "\/web\/assets\/images\/icon-rocket.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/images\/map.png": {
+	"\/web\/assets\/images\/map.png": {
 		"ft": 32768,
 		"iS": 242145,
 		"oA": 0,
-		"oAP": "\/assets\/images\/map.png",
+		"oAP": "\/web\/assets\/images\/map.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/scripts\/main.js": {
+	"\/web\/assets\/images\/menu.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/web\/assets\/images\/menu.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/web\/assets\/js\/main.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/main.js",
+		"oAP": "\/web\/assets\/js\/main.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/assets\/styles\/components\/_footer.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_footer.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/components\/_header.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_header.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/components\/_homepage.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_homepage.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/main.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/main.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/partials\/_input.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_input.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/partials\/_typography.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_typography.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/partials\/_vars.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_vars.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/index.html": {
+	"\/web\/contact.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/web\/contact.php",
+		"oF": 0
+		},
+	"\/web\/favicon.png": {
+		"ft": 32768,
+		"iS": 5892,
+		"oA": 0,
+		"oAP": "\/web\/favicon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/web\/includes\/errorPage.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/includes\/errorPage.php",
+		"oF": 0
+		},
+	"\/web\/includes\/footer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/includes\/footer.php",
+		"oF": 0
+		},
+	"\/web\/includes\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/includes\/header.php",
+		"oF": 0
+		},
+	"\/web\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/index.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Exceptions.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Exceptions.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Exports.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Exports.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Inbound.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Inbound.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Internal.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Internal.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Ips.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Ips.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Messages.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Messages.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Metadata.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Metadata.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Rejects.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Rejects.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Senders.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Senders.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Subaccounts.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Subaccounts.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Tags.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Tags.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Templates.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Templates.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Urls.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Urls.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Users.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Users.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Webhooks.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Webhooks.php",
+		"oF": 0
+		},
+	"\/web\/src\/Mandrill\/Whitelists.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/web\/src\/Mandrill\/Whitelists.php",
 		"oF": 0
 		}
 	},
@@ -195,7 +401,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 516646798,
-	"displayValue": "ProxyCrate",
+	"displayValue": "proxycrate",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-greg"
 	},
@@ -1966,10 +2172,10 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "..\/js",
+		"autoOutputPathRelativePath": "web\/assets\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -2063,10 +2269,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "web\/assets\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
